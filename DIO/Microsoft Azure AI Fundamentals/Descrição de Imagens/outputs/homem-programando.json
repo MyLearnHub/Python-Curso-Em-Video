@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "e16985ce-2b7b-45c2-804d-deb262296bcd",
+  "content-length": "167",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man sitting at a desk with a computer",
+    "confidence": 0.8182439208030701
+  },
+  "metadata": {
+    "width": 1200,
+    "height": 800
+  }
+}

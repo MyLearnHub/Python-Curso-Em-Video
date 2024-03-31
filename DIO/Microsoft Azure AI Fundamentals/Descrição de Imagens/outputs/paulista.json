@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "7d332f77-037e-41e9-82f7-b530c80dd27f",
+  "content-length": "160",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a city with many tall buildings",
+    "confidence": 0.6700372099876404
+  },
+  "metadata": {
+    "width": 2048,
+    "height": 1324
+  }
+}
