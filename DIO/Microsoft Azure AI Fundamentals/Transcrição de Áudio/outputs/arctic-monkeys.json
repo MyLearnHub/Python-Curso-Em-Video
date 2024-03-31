@@ -1,0 +1,6785 @@
+[
+  {
+    "Id": "15816bb187924f5980150908f0052187",
+    "RecognitionStatus": 0,
+    "Offset": 17800000,
+    "Duration": 277200000,
+    "Channel": 0,
+    "DisplayText": "Well, now that mighty boom, I've seen your frown and it's like looking down the bottle of a gun. And it goes off and I'll come all these words. Oh, that's a very pleasant side to you. Aside, I much prefer swampers, laughs and jokes around. Remember cuddles in the kitchen? Yeah, forget things up the ground. And it was up, up and away.",
+    "NBest": [
+      {
+        "Confidence": 0.670296,
+        "Lexical": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i much prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "ITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i much prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "MaskedITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i much prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "Display": "Well, now that mighty boom, I've seen your frown and it's like looking down the bottle of a gun. And it goes off and I'll come all these words. Oh, that's a very pleasant side to you. Aside, I much prefer swampers, laughs and jokes around. Remember cuddles in the kitchen? Yeah, forget things up the ground. And it was up, up and away.",
+        "Words": [
+          {
+            "Word": "well",
+            "Offset": 17800000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "now",
+            "Offset": 20200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 23000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "mighty",
+            "Offset": 24600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "boom",
+            "Offset": 29400000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i've",
+            "Offset": 44200000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "seen",
+            "Offset": 45800000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "your",
+            "Offset": 49000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "frown",
+            "Offset": 51000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 55400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it's",
+            "Offset": 56600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "like",
+            "Offset": 59000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "looking",
+            "Offset": 62600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "down",
+            "Offset": 68200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "the",
+            "Offset": 72200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "bottle",
+            "Offset": 73400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "of",
+            "Offset": 79000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "a",
+            "Offset": 81800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "gun",
+            "Offset": 82200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "and",
+            "Offset": 87000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "it",
+            "Offset": 89800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "goes",
+            "Offset": 91400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "off",
+            "Offset": 97000000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "and",
+            "Offset": 103800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 107000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "come",
+            "Offset": 108600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "all",
+            "Offset": 111400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "these",
+            "Offset": 114200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "words",
+            "Offset": 118600000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "oh",
+            "Offset": 129000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "that's",
+            "Offset": 132600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "a",
+            "Offset": 137000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "very",
+            "Offset": 137400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "pleasant",
+            "Offset": 142200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "side",
+            "Offset": 147000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "to",
+            "Offset": 152600000,
+            "Duration": 800000
+          },
+          {
+            "Word": "you",
+            "Offset": 153400000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "aside",
+            "Offset": 157000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "i",
+            "Offset": 163000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "much",
+            "Offset": 163800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "prefer",
+            "Offset": 167400000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "swampers",
+            "Offset": 173400000,
+            "Duration": 12000000
+          },
+          {
+            "Word": "laughs",
+            "Offset": 190600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 195000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "jokes",
+            "Offset": 197000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "around",
+            "Offset": 201000000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "remember",
+            "Offset": 216600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 222600000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 227800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "the",
+            "Offset": 229400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 231000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 236200000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "forget",
+            "Offset": 242200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "things",
+            "Offset": 246600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "up",
+            "Offset": 251000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 253000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "ground",
+            "Offset": 254600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 261400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 263000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 265400000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 278600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "up",
+            "Offset": 281000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "and",
+            "Offset": 284600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "away",
+            "Offset": 287400000,
+            "Duration": 7600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.67539376,
+        "Lexical": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "ITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "MaskedITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "Display": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "Words": [
+          {
+            "Word": "well",
+            "Offset": 17800000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "now",
+            "Offset": 20200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 23000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "mighty",
+            "Offset": 24600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "boom",
+            "Offset": 29400000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i've",
+            "Offset": 44200000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "seen",
+            "Offset": 45800000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "your",
+            "Offset": 49000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "frown",
+            "Offset": 51000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 55400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it's",
+            "Offset": 56600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "like",
+            "Offset": 59000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "looking",
+            "Offset": 62600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "down",
+            "Offset": 68200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "the",
+            "Offset": 72200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "bottle",
+            "Offset": 73400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "of",
+            "Offset": 79000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "a",
+            "Offset": 81800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "gun",
+            "Offset": 82200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "and",
+            "Offset": 87000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "it",
+            "Offset": 89800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "goes",
+            "Offset": 91400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "off",
+            "Offset": 97000000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "and",
+            "Offset": 103800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 107000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "come",
+            "Offset": 108600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "all",
+            "Offset": 111400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "these",
+            "Offset": 114200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "words",
+            "Offset": 118600000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "oh",
+            "Offset": 129000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "that's",
+            "Offset": 132600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "a",
+            "Offset": 137000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "very",
+            "Offset": 137400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "pleasant",
+            "Offset": 142200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "side",
+            "Offset": 147000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "to",
+            "Offset": 152600000,
+            "Duration": 800000
+          },
+          {
+            "Word": "you",
+            "Offset": 153400000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "aside",
+            "Offset": 157000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "i",
+            "Offset": 163000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "must",
+            "Offset": 163800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "prefer",
+            "Offset": 167400000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "swampers",
+            "Offset": 173400000,
+            "Duration": 12000000
+          },
+          {
+            "Word": "laughs",
+            "Offset": 190600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 195000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "jokes",
+            "Offset": 197000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "around",
+            "Offset": 201000000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "remember",
+            "Offset": 216600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 222600000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 227800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "the",
+            "Offset": 229400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 231000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 236200000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "forget",
+            "Offset": 242200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "things",
+            "Offset": 246600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "up",
+            "Offset": 251000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 253000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "ground",
+            "Offset": 254600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 261400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 263000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 265400000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 278600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "up",
+            "Offset": 281000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "and",
+            "Offset": 284600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "away",
+            "Offset": 287400000,
+            "Duration": 7600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6724579,
+        "Lexical": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i much prefer swampers laughs and jokes alone remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "ITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i much prefer swampers laughs and jokes alone remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "MaskedITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i much prefer swampers laughs and jokes alone remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "Display": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i much prefer swampers laughs and jokes alone remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "Words": [
+          {
+            "Word": "well",
+            "Offset": 17800000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "now",
+            "Offset": 20200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 23000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "mighty",
+            "Offset": 24600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "boom",
+            "Offset": 29400000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i've",
+            "Offset": 44200000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "seen",
+            "Offset": 45800000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "your",
+            "Offset": 49000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "frown",
+            "Offset": 51000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 55400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it's",
+            "Offset": 56600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "like",
+            "Offset": 59000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "looking",
+            "Offset": 62600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "down",
+            "Offset": 68200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "the",
+            "Offset": 72200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "bottle",
+            "Offset": 73400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "of",
+            "Offset": 79000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "a",
+            "Offset": 81800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "gun",
+            "Offset": 82200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "and",
+            "Offset": 87000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "it",
+            "Offset": 89800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "goes",
+            "Offset": 91400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "off",
+            "Offset": 97000000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "and",
+            "Offset": 103800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 107000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "come",
+            "Offset": 108600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "all",
+            "Offset": 111400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "these",
+            "Offset": 114200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "words",
+            "Offset": 118600000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "oh",
+            "Offset": 129000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "that's",
+            "Offset": 132600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "a",
+            "Offset": 137000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "very",
+            "Offset": 137400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "pleasant",
+            "Offset": 142200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "side",
+            "Offset": 147000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "to",
+            "Offset": 152600000,
+            "Duration": 800000
+          },
+          {
+            "Word": "you",
+            "Offset": 153400000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "aside",
+            "Offset": 157000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "i",
+            "Offset": 163000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "much",
+            "Offset": 163800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "prefer",
+            "Offset": 167400000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "swampers",
+            "Offset": 173400000,
+            "Duration": 12000000
+          },
+          {
+            "Word": "laughs",
+            "Offset": 190600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 195000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "jokes",
+            "Offset": 197000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "alone",
+            "Offset": 201800000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "remember",
+            "Offset": 216600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 222600000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 227800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "the",
+            "Offset": 229400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 231000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 236200000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "forget",
+            "Offset": 242200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "things",
+            "Offset": 246600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "up",
+            "Offset": 251000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 253000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "ground",
+            "Offset": 254600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 261400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 263000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 265400000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 278600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "up",
+            "Offset": 281000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "and",
+            "Offset": 284600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "away",
+            "Offset": 287400000,
+            "Duration": 7600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.66846704,
+        "Lexical": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget these up the ground and it was up up and away",
+        "ITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget these up the ground and it was up up and away",
+        "MaskedITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget these up the ground and it was up up and away",
+        "Display": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes around remember cuddles in the kitchen yeah forget these up the ground and it was up up and away",
+        "Words": [
+          {
+            "Word": "well",
+            "Offset": 17800000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "now",
+            "Offset": 20200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 23000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "mighty",
+            "Offset": 24600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "boom",
+            "Offset": 29400000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i've",
+            "Offset": 44200000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "seen",
+            "Offset": 45800000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "your",
+            "Offset": 49000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "frown",
+            "Offset": 51000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 55400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it's",
+            "Offset": 56600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "like",
+            "Offset": 59000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "looking",
+            "Offset": 62600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "down",
+            "Offset": 68200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "the",
+            "Offset": 72200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "bottle",
+            "Offset": 73400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "of",
+            "Offset": 79000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "a",
+            "Offset": 81800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "gun",
+            "Offset": 82200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "and",
+            "Offset": 87000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "it",
+            "Offset": 89800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "goes",
+            "Offset": 91400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "off",
+            "Offset": 97000000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "and",
+            "Offset": 103800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 107000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "come",
+            "Offset": 108600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "all",
+            "Offset": 111400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "these",
+            "Offset": 114200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "words",
+            "Offset": 118600000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "oh",
+            "Offset": 129000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "that's",
+            "Offset": 132600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "a",
+            "Offset": 137000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "very",
+            "Offset": 137400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "pleasant",
+            "Offset": 142200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "side",
+            "Offset": 147000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "to",
+            "Offset": 152600000,
+            "Duration": 800000
+          },
+          {
+            "Word": "you",
+            "Offset": 153400000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "aside",
+            "Offset": 157000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "i",
+            "Offset": 163000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "must",
+            "Offset": 163800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "prefer",
+            "Offset": 167400000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "swampers",
+            "Offset": 173400000,
+            "Duration": 12000000
+          },
+          {
+            "Word": "laughs",
+            "Offset": 190600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 195000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "jokes",
+            "Offset": 197000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "around",
+            "Offset": 201000000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "remember",
+            "Offset": 216600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 222600000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 227800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "the",
+            "Offset": 229400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 231000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 236200000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "forget",
+            "Offset": 242200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "these",
+            "Offset": 246600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "up",
+            "Offset": 251000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 253000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "ground",
+            "Offset": 254600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 261400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 263000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 265400000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 278600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "up",
+            "Offset": 281000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "and",
+            "Offset": 284600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "away",
+            "Offset": 287400000,
+            "Duration": 7600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6775556,
+        "Lexical": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes alone remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "ITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes alone remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "MaskedITN": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes alone remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "Display": "well now that mighty boom i've seen your frown and it's like looking down the bottle of a gun and it goes off and i'll come all these words oh that's a very pleasant side to you aside i must prefer swampers laughs and jokes alone remember cuddles in the kitchen yeah forget things up the ground and it was up up and away",
+        "Words": [
+          {
+            "Word": "well",
+            "Offset": 17800000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "now",
+            "Offset": 20200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 23000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "mighty",
+            "Offset": 24600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "boom",
+            "Offset": 29400000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i've",
+            "Offset": 44200000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "seen",
+            "Offset": 45800000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "your",
+            "Offset": 49000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "frown",
+            "Offset": 51000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 55400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it's",
+            "Offset": 56600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "like",
+            "Offset": 59000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "looking",
+            "Offset": 62600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "down",
+            "Offset": 68200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "the",
+            "Offset": 72200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "bottle",
+            "Offset": 73400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "of",
+            "Offset": 79000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "a",
+            "Offset": 81800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "gun",
+            "Offset": 82200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "and",
+            "Offset": 87000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "it",
+            "Offset": 89800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "goes",
+            "Offset": 91400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "off",
+            "Offset": 97000000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "and",
+            "Offset": 103800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 107000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "come",
+            "Offset": 108600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "all",
+            "Offset": 111400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "these",
+            "Offset": 114200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "words",
+            "Offset": 118600000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "oh",
+            "Offset": 129000000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "that's",
+            "Offset": 132600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "a",
+            "Offset": 137000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "very",
+            "Offset": 137400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "pleasant",
+            "Offset": 142200000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "side",
+            "Offset": 147000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "to",
+            "Offset": 152600000,
+            "Duration": 800000
+          },
+          {
+            "Word": "you",
+            "Offset": 153400000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "aside",
+            "Offset": 157000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "i",
+            "Offset": 163000000,
+            "Duration": 400000
+          },
+          {
+            "Word": "must",
+            "Offset": 163800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "prefer",
+            "Offset": 167400000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "swampers",
+            "Offset": 173400000,
+            "Duration": 12000000
+          },
+          {
+            "Word": "laughs",
+            "Offset": 190600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "and",
+            "Offset": 195000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "jokes",
+            "Offset": 197000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "alone",
+            "Offset": 201800000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "remember",
+            "Offset": 216600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 222600000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 227800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "the",
+            "Offset": 229400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 231000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 236200000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "forget",
+            "Offset": 242200000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "things",
+            "Offset": 246600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "up",
+            "Offset": 251000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 253000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "ground",
+            "Offset": 254600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 261400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 263000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 265400000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 278600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "up",
+            "Offset": 281000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "and",
+            "Offset": 284600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "away",
+            "Offset": 287400000,
+            "Duration": 7600000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d1fb34991f2d4c31bc2b8f6dd44424c8",
+    "RecognitionStatus": 0,
+    "Offset": 303500000,
+    "Duration": 100000000,
+    "Channel": 0,
+    "DisplayText": "Ah, but it's rare to remember that on a day like today, when you're all argumentative and you've got a face on.",
+    "NBest": [
+      {
+        "Confidence": 0.566953,
+        "Lexical": "ah but it's rare to remember that on a day like today when you're all argumentative and you've got a face on",
+        "ITN": "ah but it's rare to remember that on a day like today when you're all argumentative and you've got a face on",
+        "MaskedITN": "ah but it's rare to remember that on a day like today when you're all argumentative and you've got a face on",
+        "Display": "Ah, but it's rare to remember that on a day like today, when you're all argumentative and you've got a face on.",
+        "Words": [
+          {
+            "Word": "ah",
+            "Offset": 303500000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 304300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it's",
+            "Offset": 306300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "rare",
+            "Offset": 309100000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "to",
+            "Offset": 312300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "remember",
+            "Offset": 315900000,
+            "Duration": 8400000
+          },
+          {
+            "Word": "that",
+            "Offset": 324300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "on",
+            "Offset": 331900000,
+            "Duration": 800000
+          },
+          {
+            "Word": "a",
+            "Offset": 332700000,
+            "Duration": 400000
+          },
+          {
+            "Word": "day",
+            "Offset": 333100000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "like",
+            "Offset": 336300000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "today",
+            "Offset": 339500000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "when",
+            "Offset": 346300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 348700000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "all",
+            "Offset": 357500000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 365500000,
+            "Duration": 12400000
+          },
+          {
+            "Word": "and",
+            "Offset": 381900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 383100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 385500000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "a",
+            "Offset": 388700000,
+            "Duration": 400000
+          },
+          {
+            "Word": "face",
+            "Offset": 389100000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "on",
+            "Offset": 395100000,
+            "Duration": 8400000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6249853,
+        "Lexical": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got a face on",
+        "ITN": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got a face on",
+        "MaskedITN": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got a face on",
+        "Display": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got a face on",
+        "Words": [
+          {
+            "Word": "ah",
+            "Offset": 303500000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 304300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it's",
+            "Offset": 306300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "rare",
+            "Offset": 309100000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "to",
+            "Offset": 312300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "remember",
+            "Offset": 315900000,
+            "Duration": 8400000
+          },
+          {
+            "Word": "that",
+            "Offset": 324300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "on",
+            "Offset": 327100000,
+            "Duration": 800000
+          },
+          {
+            "Word": "the",
+            "Offset": 331500000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 332700000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "today",
+            "Offset": 339500000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "when",
+            "Offset": 346300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 348700000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "all",
+            "Offset": 357500000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 365500000,
+            "Duration": 12400000
+          },
+          {
+            "Word": "and",
+            "Offset": 381900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 383100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 385500000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "a",
+            "Offset": 388700000,
+            "Duration": 400000
+          },
+          {
+            "Word": "face",
+            "Offset": 389100000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "on",
+            "Offset": 395100000,
+            "Duration": 8400000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6110437,
+        "Lexical": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got the face on",
+        "ITN": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got the face on",
+        "MaskedITN": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got the face on",
+        "Display": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got the face on",
+        "Words": [
+          {
+            "Word": "ah",
+            "Offset": 303500000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 304300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it's",
+            "Offset": 306300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "rare",
+            "Offset": 309100000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "to",
+            "Offset": 312300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "remember",
+            "Offset": 315900000,
+            "Duration": 8400000
+          },
+          {
+            "Word": "that",
+            "Offset": 324300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "on",
+            "Offset": 327100000,
+            "Duration": 800000
+          },
+          {
+            "Word": "the",
+            "Offset": 331500000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 332700000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "today",
+            "Offset": 339500000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "when",
+            "Offset": 346300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 348700000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "all",
+            "Offset": 357500000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 365500000,
+            "Duration": 12400000
+          },
+          {
+            "Word": "and",
+            "Offset": 381900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 383100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 385500000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 387900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "face",
+            "Offset": 389100000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "on",
+            "Offset": 395100000,
+            "Duration": 8400000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.60083437,
+        "Lexical": "ah but it's real to remember that on the daylight today when you're all argumentative and you've got a face on",
+        "ITN": "ah but it's real to remember that on the daylight today when you're all argumentative and you've got a face on",
+        "MaskedITN": "ah but it's real to remember that on the daylight today when you're all argumentative and you've got a face on",
+        "Display": "ah but it's real to remember that on the daylight today when you're all argumentative and you've got a face on",
+        "Words": [
+          {
+            "Word": "ah",
+            "Offset": 303500000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 304300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it's",
+            "Offset": 306300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "real",
+            "Offset": 309100000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "to",
+            "Offset": 311900000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 315900000,
+            "Duration": 8400000
+          },
+          {
+            "Word": "that",
+            "Offset": 324300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "on",
+            "Offset": 327100000,
+            "Duration": 800000
+          },
+          {
+            "Word": "the",
+            "Offset": 331500000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 332700000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "today",
+            "Offset": 339500000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "when",
+            "Offset": 346300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 348700000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "all",
+            "Offset": 357500000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 365500000,
+            "Duration": 12400000
+          },
+          {
+            "Word": "and",
+            "Offset": 381900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 383100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 385500000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "a",
+            "Offset": 388700000,
+            "Duration": 400000
+          },
+          {
+            "Word": "face",
+            "Offset": 389100000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "on",
+            "Offset": 395100000,
+            "Duration": 8400000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6095175,
+        "Lexical": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got to face on",
+        "ITN": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got to face on",
+        "MaskedITN": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got to face on",
+        "Display": "ah but it's rare to remember that on the daylight today when you're all argumentative and you've got to face on",
+        "Words": [
+          {
+            "Word": "ah",
+            "Offset": 303500000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 304300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it's",
+            "Offset": 306300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "rare",
+            "Offset": 309100000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "to",
+            "Offset": 312300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "remember",
+            "Offset": 315900000,
+            "Duration": 8400000
+          },
+          {
+            "Word": "that",
+            "Offset": 324300000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "on",
+            "Offset": 327100000,
+            "Duration": 800000
+          },
+          {
+            "Word": "the",
+            "Offset": 331500000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 332700000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "today",
+            "Offset": 339500000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "when",
+            "Offset": 346300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 348700000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "all",
+            "Offset": 357500000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 365500000,
+            "Duration": 12400000
+          },
+          {
+            "Word": "and",
+            "Offset": 381900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 383100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 385500000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 387900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "face",
+            "Offset": 389100000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "on",
+            "Offset": 395100000,
+            "Duration": 8400000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d13362e72ba449a4b2418fc4aa38e7eb",
+    "RecognitionStatus": 0,
+    "Offset": 490700000,
+    "Duration": 16400000,
+    "Channel": 0,
+    "DisplayText": "Without a money bone.",
+    "NBest": [
+      {
+        "Confidence": 0.27522716,
+        "Lexical": "without a money bone",
+        "ITN": "without a money bone",
+        "MaskedITN": "without a money bone",
+        "Display": "Without a money bone.",
+        "Words": [
+          {
+            "Word": "without",
+            "Offset": 490700000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "a",
+            "Offset": 495500000,
+            "Duration": 400000
+          },
+          {
+            "Word": "money",
+            "Offset": 496700000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "bone",
+            "Offset": 501500000,
+            "Duration": 5600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.3045122,
+        "Lexical": "without a money boom",
+        "ITN": "without a money boom",
+        "MaskedITN": "without a money boom",
+        "Display": "without a money boom",
+        "Words": [
+          {
+            "Word": "without",
+            "Offset": 490700000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "a",
+            "Offset": 495500000,
+            "Duration": 400000
+          },
+          {
+            "Word": "money",
+            "Offset": 496700000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "boom",
+            "Offset": 501500000,
+            "Duration": 5600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.25307655,
+        "Lexical": "without that money boom oh",
+        "ITN": "without that money boom oh",
+        "MaskedITN": "without that money boom oh",
+        "Display": "without that money boom oh",
+        "Words": [
+          {
+            "Word": "without",
+            "Offset": 490700000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "that",
+            "Offset": 495100000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "money",
+            "Offset": 496700000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "boom",
+            "Offset": 501500000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "oh",
+            "Offset": 515100000,
+            "Duration": 4000000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.26489624,
+        "Lexical": "without a money boom oh",
+        "ITN": "without a money boom oh",
+        "MaskedITN": "without a money boom oh",
+        "Display": "without a money boom oh",
+        "Words": [
+          {
+            "Word": "without",
+            "Offset": 490700000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "a",
+            "Offset": 495500000,
+            "Duration": 400000
+          },
+          {
+            "Word": "money",
+            "Offset": 496700000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "boom",
+            "Offset": 501500000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "oh",
+            "Offset": 515100000,
+            "Duration": 4000000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.23587808,
+        "Lexical": "without a money bone oh",
+        "ITN": "without a money bone oh",
+        "MaskedITN": "without a money bone oh",
+        "Display": "without a money bone oh",
+        "Words": [
+          {
+            "Word": "without",
+            "Offset": 490700000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "a",
+            "Offset": 495500000,
+            "Duration": 400000
+          },
+          {
+            "Word": "money",
+            "Offset": 496700000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "bone",
+            "Offset": 501500000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "oh",
+            "Offset": 515100000,
+            "Duration": 4000000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "70471796535b496eafaaf3c4aec82fc5",
+    "RecognitionStatus": 0,
+    "Offset": 526800000,
+    "Duration": 11600000,
+    "Channel": 0,
+    "DisplayText": "Oh, I'm in trouble again.",
+    "NBest": [
+      {
+        "Confidence": 0.85377944,
+        "Lexical": "oh i'm in trouble again",
+        "ITN": "oh i'm in trouble again",
+        "MaskedITN": "oh i'm in trouble again",
+        "Display": "Oh, I'm in trouble again.",
+        "Words": [
+          {
+            "Word": "oh",
+            "Offset": 526800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 527600000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "in",
+            "Offset": 528800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "trouble",
+            "Offset": 529600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "again",
+            "Offset": 532400000,
+            "Duration": 6000000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.71241933,
+        "Lexical": "oh i'm in trouble again i",
+        "ITN": "oh i'm in trouble again i",
+        "MaskedITN": "oh i'm in trouble again i",
+        "Display": "oh i'm in trouble again i",
+        "Words": [
+          {
+            "Word": "oh",
+            "Offset": 526800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 527600000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "in",
+            "Offset": 528800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "trouble",
+            "Offset": 529600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "again",
+            "Offset": 532400000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "i",
+            "Offset": 546000000,
+            "Duration": 400000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.71223176,
+        "Lexical": "oh i'm in trouble again i'm",
+        "ITN": "oh i'm in trouble again i'm",
+        "MaskedITN": "oh i'm in trouble again i'm",
+        "Display": "oh i'm in trouble again i'm",
+        "Words": [
+          {
+            "Word": "oh",
+            "Offset": 526800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 527600000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "in",
+            "Offset": 528800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "trouble",
+            "Offset": 529600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "again",
+            "Offset": 532400000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 550800000,
+            "Duration": 4000000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.57698125,
+        "Lexical": "oh i am in trouble again",
+        "ITN": "oh i am in trouble again",
+        "MaskedITN": "oh i am in trouble again",
+        "Display": "oh i am in trouble again",
+        "Words": [
+          {
+            "Word": "oh",
+            "Offset": 526800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "i",
+            "Offset": 527600000,
+            "Duration": 400000
+          },
+          {
+            "Word": "am",
+            "Offset": 528000000,
+            "Duration": 800000
+          },
+          {
+            "Word": "in",
+            "Offset": 528800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "trouble",
+            "Offset": 529600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "again",
+            "Offset": 532400000,
+            "Duration": 6000000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.7195982,
+        "Lexical": "all i'm in trouble again",
+        "ITN": "all i'm in trouble again",
+        "MaskedITN": "all i'm in trouble again",
+        "Display": "all i'm in trouble again",
+        "Words": [
+          {
+            "Word": "all",
+            "Offset": 526800000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 528000000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "in",
+            "Offset": 529200000,
+            "Duration": 800000
+          },
+          {
+            "Word": "trouble",
+            "Offset": 530000000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "again",
+            "Offset": 532800000,
+            "Duration": 5600000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "c0b58b4fa2c646f89d89ecfb18471c4c",
+    "RecognitionStatus": 0,
+    "Offset": 555200000,
+    "Duration": 291600000,
+    "Channel": 0,
+    "DisplayText": "I'm sorry, I thought as much, because you turned over there and pulling that silent disappointment, says the one that I found. Barely. Can't we just laugh and joke alone? Remember cuddles in the kitchen? Yeah, to get things off the ground. And it was up upon the way. Oh, but it's Ray Archer. Remember that on a daylight today, when you're all argumentative.",
+    "NBest": [
+      {
+        "Confidence": 0.6433806,
+        "Lexical": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "ITN": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "MaskedITN": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "Display": "I'm sorry, I thought as much, because you turned over there and pulling that silent disappointment, says the one that I found. Barely. Can't we just laugh and joke alone? Remember cuddles in the kitchen? Yeah, to get things off the ground. And it was up upon the way. Oh, but it's Ray Archer. Remember that on a daylight today, when you're all argumentative.",
+        "Words": [
+          {
+            "Word": "i'm",
+            "Offset": 555200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 556400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "i",
+            "Offset": 558400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "thought",
+            "Offset": 558800000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "as",
+            "Offset": 563200000,
+            "Duration": 800000
+          },
+          {
+            "Word": "much",
+            "Offset": 566000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "because",
+            "Offset": 572800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "you",
+            "Offset": 575600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "turned",
+            "Offset": 577200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "over",
+            "Offset": 581600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "there",
+            "Offset": 584400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "and",
+            "Offset": 598000000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "pulling",
+            "Offset": 599200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "that",
+            "Offset": 603200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "silent",
+            "Offset": 605600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "disappointment",
+            "Offset": 611600000,
+            "Duration": 10800000
+          },
+          {
+            "Word": "says",
+            "Offset": 622400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "the",
+            "Offset": 626800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "one",
+            "Offset": 628400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 631200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "i",
+            "Offset": 634800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "found",
+            "Offset": 635200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "barely",
+            "Offset": 638800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "can't",
+            "Offset": 644800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "we",
+            "Offset": 647600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "just",
+            "Offset": 658400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "laugh",
+            "Offset": 660800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "and",
+            "Offset": 664400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "joke",
+            "Offset": 666400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "alone",
+            "Offset": 674000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "remember",
+            "Offset": 686000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 692000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 697200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 699200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 700400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 706000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "to",
+            "Offset": 712000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "get",
+            "Offset": 713600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "things",
+            "Offset": 716000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "off",
+            "Offset": 720000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 722400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 723600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 730400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 732400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 734800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "up",
+            "Offset": 748400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "upon",
+            "Offset": 753200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 755600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "way",
+            "Offset": 757200000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "oh",
+            "Offset": 772800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 773600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it's",
+            "Offset": 775200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "ray",
+            "Offset": 778400000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "archer",
+            "Offset": 781600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "remember",
+            "Offset": 787200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "that",
+            "Offset": 793600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "on",
+            "Offset": 798800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "a",
+            "Offset": 800400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 800800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "today",
+            "Offset": 808800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "when",
+            "Offset": 816000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 818400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "all",
+            "Offset": 823200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 835200000,
+            "Duration": 11600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6488248,
+        "Lexical": "i'm sorry i thought as much because you turned over there pulling that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "ITN": "i'm sorry i thought as much because you turned over there pulling that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "MaskedITN": "i'm sorry i thought as much because you turned over there pulling that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "Display": "i'm sorry i thought as much because you turned over there pulling that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "Words": [
+          {
+            "Word": "i'm",
+            "Offset": 555200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 556400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "i",
+            "Offset": 558400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "thought",
+            "Offset": 558800000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "as",
+            "Offset": 563200000,
+            "Duration": 800000
+          },
+          {
+            "Word": "much",
+            "Offset": 566000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "because",
+            "Offset": 572800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "you",
+            "Offset": 575600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "turned",
+            "Offset": 577200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "over",
+            "Offset": 581600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "there",
+            "Offset": 584400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "pulling",
+            "Offset": 599200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "that",
+            "Offset": 603200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "silent",
+            "Offset": 605600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "disappointment",
+            "Offset": 611600000,
+            "Duration": 10800000
+          },
+          {
+            "Word": "says",
+            "Offset": 622400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "the",
+            "Offset": 626800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "one",
+            "Offset": 628400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 631200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "i",
+            "Offset": 634800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "found",
+            "Offset": 635200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "barely",
+            "Offset": 638800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "can't",
+            "Offset": 644800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "we",
+            "Offset": 647600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "just",
+            "Offset": 658400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "laugh",
+            "Offset": 660800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "and",
+            "Offset": 664400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "joke",
+            "Offset": 666400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "alone",
+            "Offset": 674000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "remember",
+            "Offset": 686000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 692000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 697200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 699200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 700400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 706000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "to",
+            "Offset": 712000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "get",
+            "Offset": 713600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "things",
+            "Offset": 716000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "off",
+            "Offset": 720000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 722400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 723600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 730400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 732400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 734800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "up",
+            "Offset": 748400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "upon",
+            "Offset": 753200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 755600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "way",
+            "Offset": 757200000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "oh",
+            "Offset": 772800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 773600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it's",
+            "Offset": 775200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "ray",
+            "Offset": 778400000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "archer",
+            "Offset": 781600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "remember",
+            "Offset": 787200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "that",
+            "Offset": 793600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "on",
+            "Offset": 798800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "a",
+            "Offset": 800400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 800800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "today",
+            "Offset": 808800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "when",
+            "Offset": 816000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 818400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "all",
+            "Offset": 823200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 835200000,
+            "Duration": 11600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6246356,
+        "Lexical": "i'm sorry i thought as much because you turned over there i pull in that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "ITN": "i'm sorry i thought as much because you turned over there i pull in that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "MaskedITN": "i'm sorry i thought as much because you turned over there i pull in that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "Display": "i'm sorry i thought as much because you turned over there i pull in that silent disappointment says the one that i found barely can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "Words": [
+          {
+            "Word": "i'm",
+            "Offset": 555200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 556400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "i",
+            "Offset": 558400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "thought",
+            "Offset": 558800000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "as",
+            "Offset": 563200000,
+            "Duration": 800000
+          },
+          {
+            "Word": "much",
+            "Offset": 566000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "because",
+            "Offset": 572800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "you",
+            "Offset": 575600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "turned",
+            "Offset": 577200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "over",
+            "Offset": 581600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "there",
+            "Offset": 584400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 598800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "pull",
+            "Offset": 599200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "in",
+            "Offset": 601600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "that",
+            "Offset": 603200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "silent",
+            "Offset": 605600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "disappointment",
+            "Offset": 611600000,
+            "Duration": 10800000
+          },
+          {
+            "Word": "says",
+            "Offset": 622400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "the",
+            "Offset": 626800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "one",
+            "Offset": 628400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 631200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "i",
+            "Offset": 634800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "found",
+            "Offset": 635200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "barely",
+            "Offset": 638800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "can't",
+            "Offset": 644800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "we",
+            "Offset": 647600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "just",
+            "Offset": 658400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "laugh",
+            "Offset": 660800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "and",
+            "Offset": 664400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "joke",
+            "Offset": 666400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "alone",
+            "Offset": 674000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "remember",
+            "Offset": 686000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 692000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 697200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 699200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 700400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 706000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "to",
+            "Offset": 712000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "get",
+            "Offset": 713600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "things",
+            "Offset": 716000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "off",
+            "Offset": 720000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 722400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 723600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 730400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 732400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 734800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "up",
+            "Offset": 748400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "upon",
+            "Offset": 753200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 755600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "way",
+            "Offset": 757200000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "oh",
+            "Offset": 772800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 773600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it's",
+            "Offset": 775200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "ray",
+            "Offset": 778400000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "archer",
+            "Offset": 781600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "remember",
+            "Offset": 787200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "that",
+            "Offset": 793600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "on",
+            "Offset": 798800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "a",
+            "Offset": 800400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 800800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "today",
+            "Offset": 808800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "when",
+            "Offset": 816000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 818400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "all",
+            "Offset": 823200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 835200000,
+            "Duration": 11600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6243664,
+        "Lexical": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found bare with can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "ITN": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found bare with can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "MaskedITN": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found bare with can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "Display": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found bare with can't we just laugh and joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "Words": [
+          {
+            "Word": "i'm",
+            "Offset": 555200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 556400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "i",
+            "Offset": 558400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "thought",
+            "Offset": 558800000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "as",
+            "Offset": 563200000,
+            "Duration": 800000
+          },
+          {
+            "Word": "much",
+            "Offset": 566000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "because",
+            "Offset": 572800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "you",
+            "Offset": 575600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "turned",
+            "Offset": 577200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "over",
+            "Offset": 581600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "there",
+            "Offset": 584400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "and",
+            "Offset": 598000000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "pulling",
+            "Offset": 599200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "that",
+            "Offset": 603200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "silent",
+            "Offset": 605600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "disappointment",
+            "Offset": 611600000,
+            "Duration": 10800000
+          },
+          {
+            "Word": "says",
+            "Offset": 622400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "the",
+            "Offset": 626800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "one",
+            "Offset": 628400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 631200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "i",
+            "Offset": 634800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "found",
+            "Offset": 635200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "bare",
+            "Offset": 638800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "with",
+            "Offset": 642400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "can't",
+            "Offset": 644800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "we",
+            "Offset": 647600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "just",
+            "Offset": 658400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "laugh",
+            "Offset": 660800000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "and",
+            "Offset": 664400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "joke",
+            "Offset": 666400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "alone",
+            "Offset": 674000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "remember",
+            "Offset": 686000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 692000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 697200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 699200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 700400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 706000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "to",
+            "Offset": 712000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "get",
+            "Offset": 713600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "things",
+            "Offset": 716000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "off",
+            "Offset": 720000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 722400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 723600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 730400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 732400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 734800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "up",
+            "Offset": 748400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "upon",
+            "Offset": 753200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 755600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "way",
+            "Offset": 757200000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "oh",
+            "Offset": 772800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 773600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it's",
+            "Offset": 775200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "ray",
+            "Offset": 778400000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "archer",
+            "Offset": 781600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "remember",
+            "Offset": 787200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "that",
+            "Offset": 793600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "on",
+            "Offset": 798800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "a",
+            "Offset": 800400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 800800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "today",
+            "Offset": 808800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "when",
+            "Offset": 816000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 818400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "all",
+            "Offset": 823200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 835200000,
+            "Duration": 11600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.63257354,
+        "Lexical": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found barely can't win just laughing joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "ITN": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found barely can't win just laughing joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "MaskedITN": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found barely can't win just laughing joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "Display": "i'm sorry i thought as much because you turned over there and pulling that silent disappointment says the one that i found barely can't win just laughing joke alone remember cuddles in the kitchen yeah to get things off the ground and it was up upon the way oh but it's ray archer remember that on a daylight today when you're all argumentative",
+        "Words": [
+          {
+            "Word": "i'm",
+            "Offset": 555200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 556400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "i",
+            "Offset": 558400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "thought",
+            "Offset": 558800000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "as",
+            "Offset": 563200000,
+            "Duration": 800000
+          },
+          {
+            "Word": "much",
+            "Offset": 566000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "because",
+            "Offset": 572800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "you",
+            "Offset": 575600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "turned",
+            "Offset": 577200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "over",
+            "Offset": 581600000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "there",
+            "Offset": 584400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "and",
+            "Offset": 598000000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "pulling",
+            "Offset": 599200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "that",
+            "Offset": 603200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "silent",
+            "Offset": 605600000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "disappointment",
+            "Offset": 611600000,
+            "Duration": 10800000
+          },
+          {
+            "Word": "says",
+            "Offset": 622400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "the",
+            "Offset": 626800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "one",
+            "Offset": 628400000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "that",
+            "Offset": 631200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "i",
+            "Offset": 634800000,
+            "Duration": 400000
+          },
+          {
+            "Word": "found",
+            "Offset": 635200000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "barely",
+            "Offset": 638800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "can't",
+            "Offset": 644800000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "win",
+            "Offset": 647600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "just",
+            "Offset": 658400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "laughing",
+            "Offset": 660800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "joke",
+            "Offset": 666400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "alone",
+            "Offset": 674000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "remember",
+            "Offset": 686000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 692000000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "in",
+            "Offset": 697200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 699200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 700400000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 706000000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "to",
+            "Offset": 712000000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "get",
+            "Offset": 713600000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "things",
+            "Offset": 716000000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "off",
+            "Offset": 720000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 722400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 723600000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "and",
+            "Offset": 730400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "it",
+            "Offset": 732400000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "was",
+            "Offset": 734800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "up",
+            "Offset": 748400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "upon",
+            "Offset": 753200000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 755600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "way",
+            "Offset": 757200000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "oh",
+            "Offset": 772800000,
+            "Duration": 800000
+          },
+          {
+            "Word": "but",
+            "Offset": 773600000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it's",
+            "Offset": 775200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "ray",
+            "Offset": 778400000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "archer",
+            "Offset": 781600000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "remember",
+            "Offset": 787200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "that",
+            "Offset": 793600000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "on",
+            "Offset": 798800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "a",
+            "Offset": 800400000,
+            "Duration": 400000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 800800000,
+            "Duration": 8000000
+          },
+          {
+            "Word": "today",
+            "Offset": 808800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "when",
+            "Offset": 816000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 818400000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "all",
+            "Offset": 823200000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "argumentative",
+            "Offset": 835200000,
+            "Duration": 11600000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "b3ce49d861394e1abb6aae7deb2a210e",
+    "RecognitionStatus": 0,
+    "Offset": 853900000,
+    "Duration": 179600000,
+    "Channel": 0,
+    "DisplayText": "And you've got to face on. And yeah, I'm sorry I was late, but I missed the train and then the traffic was a state and I can't be asked to carry on in Mr Payne, that reoccurs. Or when you say I don't care about Castle to me, I clearly do.",
+    "NBest": [
+      {
+        "Confidence": 0.7204882,
+        "Lexical": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly do",
+        "ITN": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mr payne that reoccurs or when you say i don't care about castle to me i clearly do",
+        "MaskedITN": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mr payne that reoccurs or when you say i don't care about castle to me i clearly do",
+        "Display": "And you've got to face on. And yeah, I'm sorry I was late, but I missed the train and then the traffic was a state and I can't be asked to carry on in Mr Payne, that reoccurs. Or when you say I don't care about Castle to me, I clearly do.",
+        "Words": [
+          {
+            "Word": "and",
+            "Offset": 853900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 855100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 857500000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 859900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "face",
+            "Offset": 861100000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "on",
+            "Offset": 867500000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "and",
+            "Offset": 871100000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 872700000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 875900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 877100000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i",
+            "Offset": 885100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "was",
+            "Offset": 885500000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "late",
+            "Offset": 891100000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "but",
+            "Offset": 900700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 903100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "missed",
+            "Offset": 904300000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "the",
+            "Offset": 907900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "train",
+            "Offset": 909100000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "and",
+            "Offset": 914700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "then",
+            "Offset": 915900000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "the",
+            "Offset": 918700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "traffic",
+            "Offset": 919900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "was",
+            "Offset": 925900000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "a",
+            "Offset": 929900000,
+            "Duration": 400000
+          },
+          {
+            "Word": "state",
+            "Offset": 930700000,
+            "Duration": 10000000
+          },
+          {
+            "Word": "and",
+            "Offset": 943100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 946300000,
+            "Duration": 400000
+          },
+          {
+            "Word": "can't",
+            "Offset": 946700000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "be",
+            "Offset": 950300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "asked",
+            "Offset": 954300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 956700000,
+            "Duration": 800000
+          },
+          {
+            "Word": "carry",
+            "Offset": 957500000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "on",
+            "Offset": 963100000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "in",
+            "Offset": 966700000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "mister",
+            "Offset": 968700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "payne",
+            "Offset": 972700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "that",
+            "Offset": 976700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "reoccurs",
+            "Offset": 979100000,
+            "Duration": 9200000
+          },
+          {
+            "Word": "or",
+            "Offset": 988300000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "when",
+            "Offset": 989900000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you",
+            "Offset": 992300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "say",
+            "Offset": 994300000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 997500000,
+            "Duration": 400000
+          },
+          {
+            "Word": "don't",
+            "Offset": 997900000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "care",
+            "Offset": 1001100000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "about",
+            "Offset": 1007100000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "castle",
+            "Offset": 1011900000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "to",
+            "Offset": 1015500000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "me",
+            "Offset": 1017500000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 1020700000,
+            "Duration": 400000
+          },
+          {
+            "Word": "clearly",
+            "Offset": 1021900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "do",
+            "Offset": 1031100000,
+            "Duration": 2400000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.7143589,
+        "Lexical": "and you've got the face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly do",
+        "ITN": "and you've got the face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly do",
+        "MaskedITN": "and you've got the face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly do",
+        "Display": "and you've got the face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly do",
+        "Words": [
+          {
+            "Word": "and",
+            "Offset": 853900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 855100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 857500000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 859900000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "face",
+            "Offset": 861500000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "on",
+            "Offset": 867500000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "and",
+            "Offset": 871100000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 872700000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 875900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 877100000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i",
+            "Offset": 885100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "was",
+            "Offset": 885500000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "late",
+            "Offset": 891100000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "but",
+            "Offset": 900700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 903100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "missed",
+            "Offset": 904300000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "the",
+            "Offset": 907900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "train",
+            "Offset": 909100000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "and",
+            "Offset": 914700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "then",
+            "Offset": 915900000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "the",
+            "Offset": 918700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "traffic",
+            "Offset": 919900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "was",
+            "Offset": 925900000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "a",
+            "Offset": 929900000,
+            "Duration": 400000
+          },
+          {
+            "Word": "state",
+            "Offset": 930700000,
+            "Duration": 10000000
+          },
+          {
+            "Word": "and",
+            "Offset": 943100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 946300000,
+            "Duration": 400000
+          },
+          {
+            "Word": "can't",
+            "Offset": 946700000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "be",
+            "Offset": 950300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "asked",
+            "Offset": 954300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 956700000,
+            "Duration": 800000
+          },
+          {
+            "Word": "carry",
+            "Offset": 957500000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "on",
+            "Offset": 963100000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "in",
+            "Offset": 966700000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "mister",
+            "Offset": 968700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "payne",
+            "Offset": 972700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "that",
+            "Offset": 976700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "reoccurs",
+            "Offset": 979100000,
+            "Duration": 9200000
+          },
+          {
+            "Word": "or",
+            "Offset": 988300000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "when",
+            "Offset": 989900000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you",
+            "Offset": 992300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "say",
+            "Offset": 994300000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 997500000,
+            "Duration": 400000
+          },
+          {
+            "Word": "don't",
+            "Offset": 997900000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "care",
+            "Offset": 1001100000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "about",
+            "Offset": 1007100000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "castle",
+            "Offset": 1011900000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "to",
+            "Offset": 1015500000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "me",
+            "Offset": 1017500000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 1020700000,
+            "Duration": 400000
+          },
+          {
+            "Word": "clearly",
+            "Offset": 1021900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "do",
+            "Offset": 1031100000,
+            "Duration": 2400000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.70794487,
+        "Lexical": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly to know",
+        "ITN": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly to know",
+        "MaskedITN": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly to know",
+        "Display": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly to know",
+        "Words": [
+          {
+            "Word": "and",
+            "Offset": 853900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 855100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 857500000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 859900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "face",
+            "Offset": 861100000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "on",
+            "Offset": 867500000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "and",
+            "Offset": 871100000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 872700000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 875900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 877100000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i",
+            "Offset": 885100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "was",
+            "Offset": 885500000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "late",
+            "Offset": 891100000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "but",
+            "Offset": 900700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 903100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "missed",
+            "Offset": 904300000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "the",
+            "Offset": 907900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "train",
+            "Offset": 909100000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "and",
+            "Offset": 914700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "then",
+            "Offset": 915900000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "the",
+            "Offset": 918700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "traffic",
+            "Offset": 919900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "was",
+            "Offset": 925900000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "a",
+            "Offset": 929900000,
+            "Duration": 400000
+          },
+          {
+            "Word": "state",
+            "Offset": 930700000,
+            "Duration": 10000000
+          },
+          {
+            "Word": "and",
+            "Offset": 943100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 946300000,
+            "Duration": 400000
+          },
+          {
+            "Word": "can't",
+            "Offset": 946700000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "be",
+            "Offset": 950300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "asked",
+            "Offset": 954300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 956700000,
+            "Duration": 800000
+          },
+          {
+            "Word": "carry",
+            "Offset": 957500000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "on",
+            "Offset": 963100000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "in",
+            "Offset": 966700000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "mister",
+            "Offset": 968700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "payne",
+            "Offset": 972700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "that",
+            "Offset": 976700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "reoccurs",
+            "Offset": 979100000,
+            "Duration": 9200000
+          },
+          {
+            "Word": "or",
+            "Offset": 988300000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "when",
+            "Offset": 989900000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you",
+            "Offset": 992300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "say",
+            "Offset": 994300000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 997500000,
+            "Duration": 400000
+          },
+          {
+            "Word": "don't",
+            "Offset": 997900000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "care",
+            "Offset": 1001100000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "about",
+            "Offset": 1007100000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "castle",
+            "Offset": 1011900000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "to",
+            "Offset": 1015500000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "me",
+            "Offset": 1017500000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 1020700000,
+            "Duration": 400000
+          },
+          {
+            "Word": "clearly",
+            "Offset": 1021900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "to",
+            "Offset": 1027900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "know",
+            "Offset": 1029900000,
+            "Duration": 3600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.72034436,
+        "Lexical": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly tunnel",
+        "ITN": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly tunnel",
+        "MaskedITN": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly tunnel",
+        "Display": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly tunnel",
+        "Words": [
+          {
+            "Word": "and",
+            "Offset": 853900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 855100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 857500000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 859900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "face",
+            "Offset": 861100000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "on",
+            "Offset": 867500000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "and",
+            "Offset": 871100000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 872700000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 875900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 877100000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i",
+            "Offset": 885100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "was",
+            "Offset": 885500000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "late",
+            "Offset": 891100000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "but",
+            "Offset": 900700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 903100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "missed",
+            "Offset": 904300000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "the",
+            "Offset": 907900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "train",
+            "Offset": 909100000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "and",
+            "Offset": 914700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "then",
+            "Offset": 915900000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "the",
+            "Offset": 918700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "traffic",
+            "Offset": 919900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "was",
+            "Offset": 925900000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "a",
+            "Offset": 929900000,
+            "Duration": 400000
+          },
+          {
+            "Word": "state",
+            "Offset": 930700000,
+            "Duration": 10000000
+          },
+          {
+            "Word": "and",
+            "Offset": 943100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 946300000,
+            "Duration": 400000
+          },
+          {
+            "Word": "can't",
+            "Offset": 946700000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "be",
+            "Offset": 950300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "asked",
+            "Offset": 954300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 956700000,
+            "Duration": 800000
+          },
+          {
+            "Word": "carry",
+            "Offset": 957500000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "on",
+            "Offset": 963100000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "in",
+            "Offset": 966700000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "mister",
+            "Offset": 968700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "payne",
+            "Offset": 972700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "that",
+            "Offset": 976700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "reoccurs",
+            "Offset": 979100000,
+            "Duration": 9200000
+          },
+          {
+            "Word": "or",
+            "Offset": 988300000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "when",
+            "Offset": 989900000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you",
+            "Offset": 992300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "say",
+            "Offset": 994300000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 997500000,
+            "Duration": 400000
+          },
+          {
+            "Word": "don't",
+            "Offset": 997900000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "care",
+            "Offset": 1001100000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "about",
+            "Offset": 1007100000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "castle",
+            "Offset": 1011900000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "to",
+            "Offset": 1015500000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "me",
+            "Offset": 1017500000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 1020700000,
+            "Duration": 400000
+          },
+          {
+            "Word": "clearly",
+            "Offset": 1021900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "tunnel",
+            "Offset": 1027900000,
+            "Duration": 5600000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.7078268,
+        "Lexical": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly tune over",
+        "ITN": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly tune over",
+        "MaskedITN": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly tune over",
+        "Display": "and you've got to face on and yeah i'm sorry i was late but i missed the train and then the traffic was a state and i can't be asked to carry on in mister payne that reoccurs or when you say i don't care about castle to me i clearly tune over",
+        "Words": [
+          {
+            "Word": "and",
+            "Offset": 853900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 855100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 857500000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 859900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "face",
+            "Offset": 861100000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "on",
+            "Offset": 867500000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "and",
+            "Offset": 871100000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 872700000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i'm",
+            "Offset": 875900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "sorry",
+            "Offset": 877100000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "i",
+            "Offset": 885100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "was",
+            "Offset": 885500000,
+            "Duration": 5200000
+          },
+          {
+            "Word": "late",
+            "Offset": 891100000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "but",
+            "Offset": 900700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 903100000,
+            "Duration": 400000
+          },
+          {
+            "Word": "missed",
+            "Offset": 904300000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "the",
+            "Offset": 907900000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "train",
+            "Offset": 909100000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "and",
+            "Offset": 914700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "then",
+            "Offset": 915900000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "the",
+            "Offset": 918700000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "traffic",
+            "Offset": 919900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "was",
+            "Offset": 925900000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "a",
+            "Offset": 929900000,
+            "Duration": 400000
+          },
+          {
+            "Word": "state",
+            "Offset": 930700000,
+            "Duration": 10000000
+          },
+          {
+            "Word": "and",
+            "Offset": 943100000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "i",
+            "Offset": 946300000,
+            "Duration": 400000
+          },
+          {
+            "Word": "can't",
+            "Offset": 946700000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "be",
+            "Offset": 950300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "asked",
+            "Offset": 954300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "to",
+            "Offset": 956700000,
+            "Duration": 800000
+          },
+          {
+            "Word": "carry",
+            "Offset": 957500000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "on",
+            "Offset": 963100000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "in",
+            "Offset": 966700000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "mister",
+            "Offset": 968700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "payne",
+            "Offset": 972700000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "that",
+            "Offset": 976700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "reoccurs",
+            "Offset": 979100000,
+            "Duration": 9200000
+          },
+          {
+            "Word": "or",
+            "Offset": 988300000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "when",
+            "Offset": 989900000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you",
+            "Offset": 992300000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "say",
+            "Offset": 994300000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 997500000,
+            "Duration": 400000
+          },
+          {
+            "Word": "don't",
+            "Offset": 997900000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "care",
+            "Offset": 1001100000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "about",
+            "Offset": 1007100000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "castle",
+            "Offset": 1011900000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "to",
+            "Offset": 1015500000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "me",
+            "Offset": 1017500000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "i",
+            "Offset": 1020700000,
+            "Duration": 400000
+          },
+          {
+            "Word": "clearly",
+            "Offset": 1021900000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "tune",
+            "Offset": 1027900000,
+            "Duration": 3600000
+          },
+          {
+            "Word": "over",
+            "Offset": 1031500000,
+            "Duration": 2800000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "5bb0e23202354d348d447d0458d79f41",
+    "RecognitionStatus": 0,
+    "Offset": 1219000000,
+    "Duration": 177600000,
+    "Channel": 0,
+    "DisplayText": "Slap and joke around. Remember cuddles in the kitchen? Yeah, to get things off the ground. And it was up a brand away. I'll put it straight up to remember that on a day like today when you're on your own.",
+    "NBest": [
+      {
+        "Confidence": 0.6290467,
+        "Lexical": "slap and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "ITN": "slap and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "MaskedITN": "slap and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "Display": "Slap and joke around. Remember cuddles in the kitchen? Yeah, to get things off the ground. And it was up a brand away. I'll put it straight up to remember that on a day like today when you're on your own.",
+        "Words": [
+          {
+            "Word": "slap",
+            "Offset": 1219000000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "and",
+            "Offset": 1225800000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "joke",
+            "Offset": 1227800000,
+            "Duration": 9600000
+          },
+          {
+            "Word": "around",
+            "Offset": 1237400000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1247800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 1253400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "in",
+            "Offset": 1260200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "the",
+            "Offset": 1263400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 1265000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 1270600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "to",
+            "Offset": 1275000000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "get",
+            "Offset": 1276200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "things",
+            "Offset": 1279000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "off",
+            "Offset": 1283400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 1285400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 1286600000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "and",
+            "Offset": 1293800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it",
+            "Offset": 1295800000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "was",
+            "Offset": 1297800000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 1311400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1314200000,
+            "Duration": 400000
+          },
+          {
+            "Word": "brand",
+            "Offset": 1315000000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "away",
+            "Offset": 1319800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 1327000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "put",
+            "Offset": 1336600000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it",
+            "Offset": 1338600000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "straight",
+            "Offset": 1339800000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "up",
+            "Offset": 1347400000,
+            "Duration": 800000
+          },
+          {
+            "Word": "to",
+            "Offset": 1348200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1349400000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "that",
+            "Offset": 1358200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "on",
+            "Offset": 1364200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1366600000,
+            "Duration": 400000
+          },
+          {
+            "Word": "day",
+            "Offset": 1367000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "like",
+            "Offset": 1371400000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "today",
+            "Offset": 1375400000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "when",
+            "Offset": 1383000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 1385400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "on",
+            "Offset": 1389800000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "your",
+            "Offset": 1393800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "own",
+            "Offset": 1395400000,
+            "Duration": 1200000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.63537323,
+        "Lexical": "slapping joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "ITN": "slapping joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "MaskedITN": "slapping joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "Display": "slapping joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "Words": [
+          {
+            "Word": "slapping",
+            "Offset": 1219000000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "joke",
+            "Offset": 1227800000,
+            "Duration": 9600000
+          },
+          {
+            "Word": "around",
+            "Offset": 1237400000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1247800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 1253400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "in",
+            "Offset": 1260200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "the",
+            "Offset": 1263400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 1265000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 1270600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "to",
+            "Offset": 1275000000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "get",
+            "Offset": 1276200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "things",
+            "Offset": 1279000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "off",
+            "Offset": 1283400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 1285400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 1286600000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "and",
+            "Offset": 1293800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it",
+            "Offset": 1295800000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "was",
+            "Offset": 1297800000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 1311400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1314200000,
+            "Duration": 400000
+          },
+          {
+            "Word": "brand",
+            "Offset": 1315000000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "away",
+            "Offset": 1319800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 1327000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "put",
+            "Offset": 1336600000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it",
+            "Offset": 1338600000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "straight",
+            "Offset": 1339800000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "up",
+            "Offset": 1347400000,
+            "Duration": 800000
+          },
+          {
+            "Word": "to",
+            "Offset": 1348200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1349400000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "that",
+            "Offset": 1358200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "on",
+            "Offset": 1364200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1366600000,
+            "Duration": 400000
+          },
+          {
+            "Word": "day",
+            "Offset": 1367000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "like",
+            "Offset": 1371400000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "today",
+            "Offset": 1375400000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "when",
+            "Offset": 1383000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 1385400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "on",
+            "Offset": 1389800000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "your",
+            "Offset": 1393800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "own",
+            "Offset": 1395400000,
+            "Duration": 1200000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6265598,
+        "Lexical": "slug and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "ITN": "slug and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "MaskedITN": "slug and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "Display": "slug and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a day like today when you're on your own",
+        "Words": [
+          {
+            "Word": "slug",
+            "Offset": 1219000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "and",
+            "Offset": 1225800000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "joke",
+            "Offset": 1227800000,
+            "Duration": 9600000
+          },
+          {
+            "Word": "around",
+            "Offset": 1237400000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1247800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 1253400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "in",
+            "Offset": 1260200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "the",
+            "Offset": 1263400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 1265000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 1270600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "to",
+            "Offset": 1275000000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "get",
+            "Offset": 1276200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "things",
+            "Offset": 1279000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "off",
+            "Offset": 1283400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 1285400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 1286600000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "and",
+            "Offset": 1293800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it",
+            "Offset": 1295800000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "was",
+            "Offset": 1297800000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 1311400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1314200000,
+            "Duration": 400000
+          },
+          {
+            "Word": "brand",
+            "Offset": 1315000000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "away",
+            "Offset": 1319800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 1327000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "put",
+            "Offset": 1336600000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it",
+            "Offset": 1338600000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "straight",
+            "Offset": 1339800000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "up",
+            "Offset": 1347400000,
+            "Duration": 800000
+          },
+          {
+            "Word": "to",
+            "Offset": 1348200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1349400000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "that",
+            "Offset": 1358200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "on",
+            "Offset": 1364200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1366600000,
+            "Duration": 400000
+          },
+          {
+            "Word": "day",
+            "Offset": 1367000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "like",
+            "Offset": 1371400000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "today",
+            "Offset": 1375400000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "when",
+            "Offset": 1383000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 1385400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "on",
+            "Offset": 1389800000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "your",
+            "Offset": 1393800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "own",
+            "Offset": 1395400000,
+            "Duration": 1200000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.6281792,
+        "Lexical": "slap and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a daylight today when you're on your own",
+        "ITN": "slap and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a daylight today when you're on your own",
+        "MaskedITN": "slap and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a daylight today when you're on your own",
+        "Display": "slap and joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a daylight today when you're on your own",
+        "Words": [
+          {
+            "Word": "slap",
+            "Offset": 1219000000,
+            "Duration": 6400000
+          },
+          {
+            "Word": "and",
+            "Offset": 1225800000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "joke",
+            "Offset": 1227800000,
+            "Duration": 9600000
+          },
+          {
+            "Word": "around",
+            "Offset": 1237400000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1247800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 1253400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "in",
+            "Offset": 1260200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "the",
+            "Offset": 1263400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 1265000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 1270600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "to",
+            "Offset": 1275000000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "get",
+            "Offset": 1276200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "things",
+            "Offset": 1279000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "off",
+            "Offset": 1283400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 1285400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 1286600000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "and",
+            "Offset": 1293800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it",
+            "Offset": 1295800000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "was",
+            "Offset": 1297800000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 1311400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1314200000,
+            "Duration": 400000
+          },
+          {
+            "Word": "brand",
+            "Offset": 1315000000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "away",
+            "Offset": 1319800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 1327000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "put",
+            "Offset": 1336600000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it",
+            "Offset": 1338600000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "straight",
+            "Offset": 1339800000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "up",
+            "Offset": 1347400000,
+            "Duration": 800000
+          },
+          {
+            "Word": "to",
+            "Offset": 1348200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1349400000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "that",
+            "Offset": 1358200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "on",
+            "Offset": 1364200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1366600000,
+            "Duration": 400000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 1367000000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "today",
+            "Offset": 1375800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "when",
+            "Offset": 1383000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 1385400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "on",
+            "Offset": 1389800000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "your",
+            "Offset": 1393800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "own",
+            "Offset": 1395400000,
+            "Duration": 1200000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.63464564,
+        "Lexical": "slapping joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a daylight today when you're on your own",
+        "ITN": "slapping joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a daylight today when you're on your own",
+        "MaskedITN": "slapping joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a daylight today when you're on your own",
+        "Display": "slapping joke around remember cuddles in the kitchen yeah to get things off the ground and it was up a brand away i'll put it straight up to remember that on a daylight today when you're on your own",
+        "Words": [
+          {
+            "Word": "slapping",
+            "Offset": 1219000000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "joke",
+            "Offset": 1227800000,
+            "Duration": 9600000
+          },
+          {
+            "Word": "around",
+            "Offset": 1237400000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1247800000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "cuddles",
+            "Offset": 1253400000,
+            "Duration": 6800000
+          },
+          {
+            "Word": "in",
+            "Offset": 1260200000,
+            "Duration": 3200000
+          },
+          {
+            "Word": "the",
+            "Offset": 1263400000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "kitchen",
+            "Offset": 1265000000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "yeah",
+            "Offset": 1270600000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "to",
+            "Offset": 1275000000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "get",
+            "Offset": 1276200000,
+            "Duration": 2800000
+          },
+          {
+            "Word": "things",
+            "Offset": 1279000000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "off",
+            "Offset": 1283400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "the",
+            "Offset": 1285400000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "ground",
+            "Offset": 1286600000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "and",
+            "Offset": 1293800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "it",
+            "Offset": 1295800000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "was",
+            "Offset": 1297800000,
+            "Duration": 7600000
+          },
+          {
+            "Word": "up",
+            "Offset": 1311400000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1314200000,
+            "Duration": 400000
+          },
+          {
+            "Word": "brand",
+            "Offset": 1315000000,
+            "Duration": 4800000
+          },
+          {
+            "Word": "away",
+            "Offset": 1319800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "i'll",
+            "Offset": 1327000000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "put",
+            "Offset": 1336600000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "it",
+            "Offset": 1338600000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "straight",
+            "Offset": 1339800000,
+            "Duration": 6000000
+          },
+          {
+            "Word": "up",
+            "Offset": 1347400000,
+            "Duration": 800000
+          },
+          {
+            "Word": "to",
+            "Offset": 1348200000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "remember",
+            "Offset": 1349400000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "that",
+            "Offset": 1358200000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "on",
+            "Offset": 1364200000,
+            "Duration": 2000000
+          },
+          {
+            "Word": "a",
+            "Offset": 1366600000,
+            "Duration": 400000
+          },
+          {
+            "Word": "daylight",
+            "Offset": 1367000000,
+            "Duration": 8800000
+          },
+          {
+            "Word": "today",
+            "Offset": 1375800000,
+            "Duration": 7200000
+          },
+          {
+            "Word": "when",
+            "Offset": 1383000000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "you're",
+            "Offset": 1385400000,
+            "Duration": 4400000
+          },
+          {
+            "Word": "on",
+            "Offset": 1389800000,
+            "Duration": 4000000
+          },
+          {
+            "Word": "your",
+            "Offset": 1393800000,
+            "Duration": 1600000
+          },
+          {
+            "Word": "own",
+            "Offset": 1395400000,
+            "Duration": 1200000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "e3106275e1874f858a88d17db34d820d",
+    "RecognitionStatus": 0,
+    "Offset": 1425900000,
+    "Duration": 37600000,
+    "Channel": 0,
+    "DisplayText": "Argumentative and you've got the face on.",
+    "NBest": [
+      {
+        "Confidence": 0.63466185,
+        "Lexical": "argumentative and you've got the face on",
+        "ITN": "argumentative and you've got the face on",
+        "MaskedITN": "argumentative and you've got the face on",
+        "Display": "Argumentative and you've got the face on.",
+        "Words": [
+          {
+            "Word": "argumentative",
+            "Offset": 1425900000,
+            "Duration": 10000000
+          },
+          {
+            "Word": "and",
+            "Offset": 1443100000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 1444300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 1446700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 1449100000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "face",
+            "Offset": 1450300000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "on",
+            "Offset": 1456300000,
+            "Duration": 7200000
+          }
+        ]
+      },
+      {
+        "Confidence": 0.59145534,
+        "Lexical": "argumentity and you've got the face on",
+        "ITN": "argumentity and you've got the face on",
+        "MaskedITN": "argumentity and you've got the face on",
+        "Display": "argumentity and you've got the face on",
+        "Words": [
+          {
+            "Word": "argumentity",
+            "Offset": 1425900000,
+            "Duration": 10400000
+          },
+          {
+            "Word": "and",
+            "Offset": 1443100000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "you've",
+            "Offset": 1444300000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "got",
+            "Offset": 1446700000,
+            "Duration": 2400000
+          },
+          {
+            "Word": "the",
+            "Offset": 1449100000,
+            "Duration": 1200000
+          },
+          {
+            "Word": "face",
+            "Offset": 1450300000,
+            "Duration": 5600000
+          },
+          {
+            "Word": "on",
+            "Offset": 1456300000,
+            "Duration": 7200000
+          }
+        ]
+      }
+    ]
+  }
+]
