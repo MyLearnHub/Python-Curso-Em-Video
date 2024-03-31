@@ -1,0 +1,135 @@
+{
+  "documents": [
+    {
+      "id": "id__1611",
+      "sentiment": "mixed",
+      "confidenceScores": {
+        "positive": 0.72,
+        "neutral": 0.04,
+        "negative": 0.23
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0,
+            "negative": 0.97
+          },
+          "offset": 0,
+          "length": 230,
+          "text": "Nem sei porque você se foi Quantas saudades eu senti E de tristezas vou viver E aquele adeus, não pude dar Você marcou em minha vida Viveu, morreu na minha história Chego a ter medo do futuro E da solidão, que em minha porta bate\n",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+          },
+          "offset": 230,
+          "length": 49,
+          "text": "E eu Gostava tanto de você Gostava tanto de você\n",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.71,
+            "neutral": 0.19,
+            "negative": 0.1
+          },
+          "offset": 279,
+          "length": 206,
+          "text": "Eu corro fujo desta sombra Em sonhos vejo este passado E na parede do meu quarto Ainda está o seu retrato Quero ver pra não lembrar Pensei até em me mudar Lugar qualquer que não exista O pensamento em você\n",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+          },
+          "offset": 485,
+          "length": 49,
+          "text": "E eu Gostava tanto de você Gostava tanto de você\n",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0,
+            "negative": 0.99
+          },
+          "offset": 534,
+          "length": 230,
+          "text": "Não sei porque você se foi Quantas saudades eu senti E de tristezas vou viver E aquele adeus, não pude dar Você marcou em minha vida Viveu, morreu na minha história Chego a ter medo do futuro E da solidão, que em minha porta bate\n",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.99,
+            "neutral": 0.01,
+            "negative": 0
+          },
+          "offset": 764,
+          "length": 49,
+          "text": "E eu Gostava tanto de você Gostava tanto de você\n",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.81,
+            "neutral": 0.16,
+            "negative": 0.04
+          },
+          "offset": 813,
+          "length": 209,
+          "text": "Eu corro fujo desta sombra Em sonhos vejo este passado E na parede do meu quarto Ainda está o seu retrato Eu quero ver pra não lembrar Pensei até em me mudar Lugar qualquer que não exista O pensamento em você\n",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.99,
+            "neutral": 0.01,
+            "negative": 0
+          },
+          "offset": 1022,
+          "length": 49,
+          "text": "E eu Gostava tanto de você Gostava tanto de você\n",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+          },
+          "offset": 1071,
+          "length": 226,
+          "text": "E eu gostava tanto de você E eu gostava tanto de você Eu gostava tanto de você Eu gostava tanto de você Eu gostava, eu gostava Eu gostava tanto de você Eu gostava tanto de você Gostava tanto Eu gostava tanto de você Eu gostava",
+          "targets": [],
+          "assessments": []
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "errors": [],
+  "modelVersion": "2022-11-01"
+}

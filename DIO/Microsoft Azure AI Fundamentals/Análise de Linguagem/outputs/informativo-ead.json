@@ -1,0 +1,114 @@
+{
+  "documents": [
+    {
+      "id": "id__2168",
+      "sentiment": "negative",
+      "confidenceScores": {
+        "positive": 0.3,
+        "neutral": 0.09,
+        "negative": 0.6
+      },
+      "sentences": [
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.39,
+            "neutral": 0.6,
+            "negative": 0
+          },
+          "offset": 0,
+          "length": 115,
+          "text": "Com o advento da internet, a educação à distância tornou-se uma opção acessível e flexível para muitos estudantes. ",
+          "targets": [
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "negative": 0
+              },
+              "offset": 29,
+              "length": 8,
+              "text": "educação",
+              "relations": [
+                {
+                  "relationType": "assessment",
+                  "ref": "#/documents/0/sentences/0/assessments/0"
+                },
+                {
+                  "relationType": "assessment",
+                  "ref": "#/documents/0/sentences/0/assessments/1"
+                }
+              ]
+            }
+          ],
+          "assessments": [
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "negative": 0
+              },
+              "offset": 70,
+              "length": 9,
+              "text": "acessível",
+              "isNegated": false
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "negative": 0
+              },
+              "offset": 82,
+              "length": 8,
+              "text": "flexível",
+              "isNegated": false
+            }
+          ]
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.04,
+            "neutral": 0.96,
+            "negative": 0
+          },
+          "offset": 115,
+          "length": 156,
+          "text": "Plataformas online oferecem uma ampla variedade de cursos, permitindo que pessoas de diferentes partes do mundo adquiram conhecimento no seu próprio ritmo. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.3,
+            "neutral": 0.09,
+            "negative": 0.6
+          },
+          "offset": 271,
+          "length": 107,
+          "text": "No entanto, é crucial abordar desafios como a garantia da qualidade do ensino remoto e a inclusão digital. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.62,
+            "negative": 0.33
+          },
+          "offset": 378,
+          "length": 107,
+          "text": "Como a inteligência artificial pode ser aplicada para personalizar o aprendizado e superar essas barreiras?",
+          "targets": [],
+          "assessments": []
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "errors": [],
+  "modelVersion": "2022-11-01"
+}

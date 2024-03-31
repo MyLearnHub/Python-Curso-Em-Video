@@ -1,0 +1,70 @@
+{
+  "documents": [
+    {
+      "id": "id__2391",
+      "sentiment": "negative",
+      "confidenceScores": {
+        "positive": 0,
+        "neutral": 0.01,
+        "negative": 0.99
+      },
+      "sentences": [
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0,
+            "neutral": 1,
+            "negative": 0
+          },
+          "offset": 0,
+          "length": 126,
+          "text": "Vincent Willem van Gogh nasceu no dia 30 de março de 1853, no vilarejo holandês de Zundert, quase na fronteira com a Bélgica. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0,
+            "neutral": 0,
+            "negative": 1
+          },
+          "offset": 126,
+          "length": 55,
+          "text": "Morreu aos 37 anos, em 27 de julho de 1890, em Auvers. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.96,
+            "negative": 0.02
+          },
+          "offset": 181,
+          "length": 81,
+          "text": "Era o primogênito de seis irmãos: Anne, Elisabeth, Wil (Wilhelmina), Cor e Theo. ",
+          "targets": [],
+          "assessments": []
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 262,
+          "length": 46,
+          "text": "Van Gogh não cresceu numa família de artistas.",
+          "targets": [],
+          "assessments": []
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "errors": [],
+  "modelVersion": "2022-11-01"
+}
