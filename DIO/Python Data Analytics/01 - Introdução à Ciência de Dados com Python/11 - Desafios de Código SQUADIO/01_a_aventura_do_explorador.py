@@ -26,6 +26,7 @@
 #             Explorador: 3 passos
 
 # 0           Nenhum passo dado na floresta.
+
 # Desafio: A Aventura do Explorador
 
 # Entrada
