@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1q8ssHXZXXpIfHXEwh1FnTSthChEOe2jK
 """
 
-import matplotlib
+# import matplotlib
 
-from sklearn.datasets import make_regression
-x, y = make_regression(n_samples=200, n_features=1, noise=30)
-import matplotlib.pyplot as plt
+# from sklearn.datasets import make_regression
+# x, y = make_regression(n_samples=200, n_features=1, noise=30)
+# import matplotlib.pyplot as plt
 
-plt.scatter(x,y)
-plt.show()
+# plt.scatter(x,y)
+# plt.show()
