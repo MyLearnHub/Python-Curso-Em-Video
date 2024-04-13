@@ -6,18 +6,24 @@ public class Exer13 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Digite sua altura:");
-        double altura = scan.nextDouble();
+        System.out.println("Entre com o valor/hora:");
+        double valorHora = scan.nextDouble();
 
-        System.out.println("Digite seu sexo [M / F]:");
-        String sexo = scan.next();
+        System.out.println("Entre com a quantidade de horas trabalhadas no mês:");
+        int horas = scan.nextInt();
 
-        double pesoIdeal = sexo == "M" ? 72.7 * altura - 58 : 62.1 * altura - 44.7;
+        double salarioBruto = valorHora * horas;
+        double inss = salarioBruto * 0.08;
+        double sindicato = salarioBruto * 0.05;
+        double ir = salarioBruto * 0.11;
+        double totalDescontos = inss + sindicato + ir;
+        double salarioLiquido = salarioBruto - totalDescontos;
 
-        System.out.println("Diga seu peso atual:");
-        double pesoAtual = scan.nextDouble();
-
-        String resultado = pesoIdeal == pesoAtual ? "dentro do peso ideal" : pesoIdeal >= pesoAtual ? "acima do peso" : "abaixo do peso";
-        System.out.println("Você está: " + resultado);
+        System.out.println("Salário bruto é: " + salarioBruto);
+        System.out.println("INSS: " + inss);
+        System.out.println("Sindicato: " + sindicato);
+        System.out.println("IR: " + ir);
+        System.out.println("Total descontos: " + totalDescontos);
+        System.out.println("Salário líquido: " + salarioLiquido);
     }
 }

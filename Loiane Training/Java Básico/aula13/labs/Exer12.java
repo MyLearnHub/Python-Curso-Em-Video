@@ -6,11 +6,11 @@ public class Exer12 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Digite sua altura:");
+        System.out.println("Entre com a altura:");
         double altura = scan.nextDouble();
 
-        double pesoIdeal = 72.2 * altura - 58;
+        double pesoIdeal = 72.7 * altura - 58;
 
-        System.out.println("Seu peso ideal é: " + pesoIdeal);
+        System.out.println("O1 peso ideal é: " + pesoIdeal);
     }
 }

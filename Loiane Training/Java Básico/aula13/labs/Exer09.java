@@ -6,11 +6,11 @@ public class Exer09 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Diga a temperatura em Fº:");
-        double farenheit = scan.nextDouble();
+        System.out.println("Entre com a temperatura em Farenheit:");
+        double f = scan.nextDouble();
 
-        double celsius = (farenheit - 32) * 5 / 9;
+        double c = 5 * (f - 32) / 9;
 
-        System.out.println("A temperatura em graus Cº é: " + celsius);
+        System.out.println("A temperatura " + f + "Fº é igual a " + c + "Cº");
     }
 }
