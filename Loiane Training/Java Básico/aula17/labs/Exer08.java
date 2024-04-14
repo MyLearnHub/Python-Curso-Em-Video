@@ -9,7 +9,7 @@ public class Exer08 {
         int soma = 0;
 
         for (int i = 0; i < 5; i++) {
-            System.out.println("Digite um número");
+            System.out.println("Digite um número:");
             num = scan.nextInt();
 
             soma += num;
