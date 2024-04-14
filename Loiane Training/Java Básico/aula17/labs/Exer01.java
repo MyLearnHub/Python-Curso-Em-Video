@@ -11,7 +11,7 @@ public class Exer01 {
             int nota = scan.nextInt();
 
             if (nota >= 0 && nota <= 10) {
-                System.out.println("Você digitou: " + nota);
+                System.out.println("Você Digitou: " + nota);
                 notaValida = true;
             } else {
                 System.out.println("Nota inválida, digite novamente.");

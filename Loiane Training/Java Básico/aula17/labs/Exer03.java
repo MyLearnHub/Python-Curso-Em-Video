@@ -11,7 +11,6 @@ public class Exer03 {
 
         do {
             System.out.println("Entre com o nome:");
-
             nome = scan.next();
 
             if (nome.length() >= 3) {
@@ -25,7 +24,6 @@ public class Exer03 {
 
         do {
             System.out.println("Entre com a idade:");
-
             idade = scan.nextInt();
 
             if (idade >= 0 && idade <= 150) {
@@ -39,7 +37,6 @@ public class Exer03 {
 
         do {
             System.out.println("Entre com o salário:");
-
             salario = scan.nextDouble();
 
             if (salario > 0) {
@@ -54,14 +51,12 @@ public class Exer03 {
         do {
 
             System.out.println("Entre com o sexo:");
-
             sexo = scan.next();
 
-            if (sexo.equalsIgnoreCase("f") ||
-                    sexo.equalsIgnoreCase("m")) {
+            if (sexo.equalsIgnoreCase("F") || sexo.equalsIgnoreCase("M")) {
                 infoValida = true;
             } else {
-                System.out.println("Sexo precisa ser 'f' ou 'm'.");
+                System.out.println("Sexo precisa ser 'F' ou 'M'.");
             }
         } while (!infoValida);
 
@@ -69,16 +64,13 @@ public class Exer03 {
 
         do {
             System.out.println("Entre com o estado civil:");
-
             estadoCivil = scan.next();
 
-            if (estadoCivil.equalsIgnoreCase("s") ||
-                    estadoCivil.equalsIgnoreCase("c") ||
-                    estadoCivil.equalsIgnoreCase("v") ||
-                    estadoCivil.equalsIgnoreCase("d")) {
+            if (estadoCivil.equalsIgnoreCase("S") || estadoCivil.equalsIgnoreCase("C") ||
+                    estadoCivil.equalsIgnoreCase("V") || estadoCivil.equalsIgnoreCase("D")) {
                 infoValida = true;
             } else {
-                System.out.println("Estado civil precisa ser 's', 'c', 'v' ou 'd'.");
+                System.out.println("Estado civil precisa ser 'S', 'C', 'V' ou 'D'.");
             }
         } while (!infoValida);
 
@@ -88,6 +80,5 @@ public class Exer03 {
         System.out.println("Salário: " + salario);
         System.out.println("Sexo: " + sexo);
         System.out.println("Estado Civil: " + estadoCivil);
-
     }
 }

@@ -71,6 +71,6 @@ public class Exer05 {
 
         System.out.println("População A: " + popA);
         System.out.println("População B: " + popB);
-        System.out.println("Qtd anos:     " + cont);
+        System.out.println("Quantidade de Anos: " + cont);
     }
 }
