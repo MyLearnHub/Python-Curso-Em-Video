@@ -6,30 +6,26 @@ public class Exer11 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Entre com o salário atual:");
-        double salarioAtual = scan.nextDouble();
+        System.out.println("Digite o salário:");
+        double salario = scan.nextDouble();
 
-        double aumento;
-        String percentual;
-        if (salarioAtual >= 1500) {
-            aumento = salarioAtual * 0.05;
-            percentual = "5%";
-        } else if (salarioAtual > 700) {
-            aumento = salarioAtual * 0.10;
-            percentual = "10%";
-        } else if (salarioAtual > 280) {
-            aumento = salarioAtual * 0.15;
-            percentual = "15%";
+        int percentual;
+        if (salario >= 1500) {
+            percentual = 5;
+        } else if (salario >= 700) {
+            percentual = 10;
+        } else if (salario > 280) {
+            percentual = 15;
         } else {
-            aumento = salarioAtual * 0.20;
-            percentual = "20%";
+            percentual = 20;
         }
 
-        double salarioFinal = salarioAtual + aumento;
+        double aumento = (salario / 100) * percentual;
+        double salarioAjustado = salario + aumento;
 
-        System.out.println("Salário antes do reajuste: " + salarioAtual);
-        System.out.println("Percentual de aumento: " + percentual);
+        System.out.println("Salário: " + salario);
+        System.out.println("Percentual: " + percentual);
         System.out.println("Aumento: " + aumento);
-        System.out.println("Salário final: " + salarioFinal);
+        System.out.println("Salário Ajustado: " + salarioAjustado);
     }
 }

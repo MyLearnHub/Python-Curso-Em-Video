@@ -15,12 +15,12 @@ public class Exer06 {
         System.out.println("Entre com o terceiro número:");
         int num3 = scan.nextInt();
 
-        if (num1 > num2 && num1 > num3) {
-            System.out.println("O maior número é o: " + num1);
-        } else if (num2 > num1 && num2 > num3) {
-            System.out.println("O maior número é o: " + num2);
+        if (num1 >= num2 && num1 >= num3) {
+            System.out.println("num1 é maior: " + num1);
+        } else if (num2 >= num1 && num2 >= num3) {
+            System.out.println("num2 é maior: " + num2);
         } else {
-            System.out.println("O maior número é o: " + num3);
+            System.out.println("num3 é maior: " + num3);
         }
     }
 }

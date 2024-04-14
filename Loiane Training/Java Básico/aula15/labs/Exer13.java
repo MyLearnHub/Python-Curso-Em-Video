@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exer13 {
     public static void main(String[] args) {
-        Scanner scan  = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
         System.out.println("Entre com um dia da semana (1-7)");
         int diaSemana = scan.nextInt();

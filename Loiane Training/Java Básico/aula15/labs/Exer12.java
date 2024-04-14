@@ -4,34 +4,36 @@ import java.util.Scanner;
 
 public class Exer12 {
     public static void main(String[] args) {
-        Scanner scan  = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
         System.out.println("Entre com o valor/hora:");
-        double valor = scan.nextDouble();
+        double valorHora = scan.nextDouble();
 
         System.out.println("Entre com as horas trabalhadas no mês:");
-        double horas = scan.nextDouble();
+        double qtdHoras = scan.nextDouble();
 
-        double salarioBruto = valor * horas;
+        double salarioBruto = valorHora * qtdHoras;
 
-        double ir = 0;
+        double percentualIR = 0;
         if (salarioBruto > 2500) {
-            ir = salarioBruto * 0.20;
+            percentualIR = 0.20;
         } else if (salarioBruto > 1500) {
-            ir = salarioBruto * 0.10;
+            percentualIR = 0.10;
         } else if (salarioBruto > 900) {
-            ir = salarioBruto * 0.05;
+            percentualIR = 0.05;
         }
 
-        double sindicato = salarioBruto * 0.03;
+        double ir = salarioBruto * percentualIR;
+        double inss = salarioBruto * 0.10;
         double fgts = salarioBruto * 0.11;
-        double desconto = ir + sindicato + fgts;
-        double salarioLiquido = salarioBruto - desconto;
+        double totalDescontos = ir + inss;
+        double salarioLiquido = salarioBruto - totalDescontos;
 
-        System.out.println("Salário Bruto: R$" + salarioBruto);
-        System.out.println("( - ) IR: R$" + ir);
-        System.out.println("FGTS: R$" + fgts);
-        System.out.println("Descontos: R$" + desconto);
-        System.out.println("Salário Líquido: R$" + salarioLiquido);
+        System.out.println("Salário Bruto: (" + valorHora + " * " + qtdHoras + "): " + salarioBruto);
+        System.out.println("( - ) IR (" + percentualIR + "%): " + ir);
+        System.out.println("( - ) INSS (10%): " + inss);
+        System.out.println("FGTS (11%): " + fgts);
+        System.out.println("Total de Descontos: " + totalDescontos);
+        System.out.println("Salário Líquido: " + salarioLiquido);
     }
 }
