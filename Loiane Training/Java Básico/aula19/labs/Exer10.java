@@ -14,14 +14,14 @@ public class Exer10 {
         }
         
         System.out.print("Vetor A = ");
-        for (int i=0; i<vetorA.length; i++){
-            System.out.print(vetorA[i] + " ");
+        for (int j : vetorA) {
+            System.out.print(j + " ");
         }
         System.out.println();
         
         System.out.print("Vetor B = ");
-        for (int i=0; i<vetorB.length; i++){
-            System.out.print(vetorB[i] + " ");
+        for (int j : vetorB) {
+            System.out.print(j + " ");
         }
         System.out.println();
     }    

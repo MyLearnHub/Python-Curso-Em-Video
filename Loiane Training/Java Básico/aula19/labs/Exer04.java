@@ -15,17 +15,16 @@ public class Exer04 {
         }
         
         System.out.print("Vetor A = ");
-        for (int j : vetorA) {
-            System.out.print(j + " ");
+        for (int i : vetorA) {
+            System.out.print(i + " ");
         }
-
         System.out.println();
         
         DecimalFormat df = new DecimalFormat("###,###.##");
         
         System.out.print("Vetor B = ");
-        for (double v : vetorB) {
-            System.out.print(df.format(v) + " ");
+        for (double i : vetorB) {
+            System.out.print(df.format(i) + " ");
         }
         System.out.println();
     }    
