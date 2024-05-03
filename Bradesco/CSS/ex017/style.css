@@ -1,0 +1,15 @@
+a:link {
+    color: #F00;
+}
+
+a:visited {
+    color: #0F0;
+}
+
+a:hover {
+    color: #F0F;
+}
+
+a:active {
+    color: #00F;
+}

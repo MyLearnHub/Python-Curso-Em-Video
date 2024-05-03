@@ -1,0 +1,12 @@
+img {
+    width: 100px;
+}
+
+#imagem {
+    float: left;
+    width: 100px;
+}
+
+p {
+    clear: both;
+}

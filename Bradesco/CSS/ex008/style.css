@@ -1,0 +1,8 @@
+body {
+    background-image: url('mine.png');
+    /* background-repeat: repeat-x; */ /* Repete na horizontal */
+    /* background-repeat: repeat-y; */ /* Repete na vertical */
+    background-repeat: no-repeat; /* Não repete */
+    /* background-attachment: fixed; */ /* Rola ou não com a tela */
+    background-position: right top; /* Define a posição de outros elementos ao redor da imagem */
+}
