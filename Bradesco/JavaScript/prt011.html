@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Condicional While com controle</title>
+</head>
+
+<body>
+    <script>
+        var js_contador = 1
+        var js_resposta = true
+
+        while (js_resposta == true) {
+            document.write(`<p>${js_contador}&ordf; Repetição de uma única linha dentro de um laço condicional:</p>`)
+            js_contador++
+            js_resposta = window.confirm('Deseja continuar?')
+        }
+    </script>
+</body>
+
+</html>

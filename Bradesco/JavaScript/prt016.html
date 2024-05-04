@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversão de String</title>
+</head>
+
+<body>
+    <h3>Formul&acute;rio de Consulta de Curso</h3>
+    <p>
+        <form name="formcurso" action="" method="post">
+            Digite seu curso: <input type="text" name="f_cursodig" size="8" maxlength="4"> (SIST)<br>
+            <input type="button" name="btn_validar" value="Validar" onclick="cadcurso()">
+            <input type="reset" name="btn_cancelar" value="Cancelar"> <br>
+            C&oacute;digo do Curso: <input type="text" name="f_codcurso" size="15" maxlength="10">
+        </form>
+    </p>
+
+    <script>
+        var js_cursodig
+
+        function cadcurso() {
+            js_cursodig = document.formcurso.f_cursodig.value
+            if (js_cursodig.toUpperCase() == 'SIST') {
+                document.formcurso.f_codcurso.value = 'SIST001/FB'
+            } else {
+                window.alert('Curso Inv\u00E1lido')
+            }
+        }
+    </script>
+</body>
+
+</html>

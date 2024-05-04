@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operador Ternário</title>
+</head>
+
+<body>
+    <script>
+        document.write('<p>-----------------------------------------...</p>')
+        document.write('<p>DEFINIÇÃO E ATRIBUIÇÃO DE VARIÁVEIS:</p>')
+        document.write('<p>var js_num = <strong>30</strong>; (js_num recebe valor 30)</p>')
+        var js_num = 30
+
+        document.write('<p>-----------------------------------------...</p>')
+        document.write('<p>OPERADOR TERNÁRIO <strong>(? :)</strong> com OPERADORES RELACIONAIS (==, !=, <):</p>')
+
+        document.write('<p>js_num <strong>==</strong> 20 <strong>?</strong> "SIM" <strong>:</strong> "NÂO" - Resposta =></p>')
+        js_num == 20  ? document.write('<strong>SIM</strong>') : document.write('<strong>NÂO</strong>')
+
+        document.write('<p>js_num <strong>!=</strong> 20 <strong>?</strong> "SIM" <strong>:</strong> "NÂO" - Resposta =></p>')
+        js_num != 20  ? document.write('<strong>SIM</strong>') : document.write('<strong>NÂO</strong>')
+
+        document.write('<p>js_num <strong><</strong> 50 <strong>?</strong> "SIM" <strong>:</strong> "NÂO" - Resposta =></p>')
+        js_num < 50  ? document.write('<strong>SIM</strong>') : document.write('<strong>NÂO</strong>')
+
+        document.write('<p>-----------------------------------------...</p>')
+        document.write('<p>OPERADOR TERNÁRIO com EXPRESSÃO ARITIMÉTICA:</p>')
+
+        document.write('<p>(js_num <strong>-</strong> 20) <strong>==</strong> 0 <strong>?</strong> "SIM" <strong>:</strong> "NÂO" - Resposta =></p>')
+        js_num - 20 == 0   ? document.write('<strong>SIM</strong>') : document.write('<strong>NÂO</strong>')
+    </script>
+</body>
+
+</html>
