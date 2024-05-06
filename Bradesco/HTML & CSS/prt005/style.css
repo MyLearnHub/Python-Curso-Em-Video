@@ -1,0 +1,12 @@
+p {
+    color: green;
+    font-size: 30px;
+}
+
+body {
+    background-image: url('mine.jpg');
+    background-position: 10px 30px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 450px 450px;
+}
