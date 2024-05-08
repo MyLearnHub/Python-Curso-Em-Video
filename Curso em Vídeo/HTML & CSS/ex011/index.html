@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias</title>
+</head>
+
+<body>
+    <h1>Mídias</h1>
+    <hr>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem Flexível">
+    </picture><br>
+
+    <audio src="midia/arctic.mp3" controls loop></audio><br>
+
+    <audio preload="auto" controls loop>
+        <source src="midia/arctic.mp3" type="audio/mpeg">
+    </audio>
+
+    <p>&lt;picture&gt;...&lt;/picture&gt; - É a tag para mídias, utilizada aqui para criar uma imagem dinâmica, inserindo a tag &lt;source&gt;, se especifica a largura maxíma de cima para baixo para alterar as imagens, no atributo 'media=""', especificando a imagem no atributo 'srcset=""' e colocando o tipo da imagem no atributo 'type="image/"'</p>
+    <p>&lt;audio src=""&gt;...&lt;/audio&gt; - É a tag para aúdio no HTML, ela funciona semelhante a tag &lt;img&gt;, mas podendo ainda ter dentro de si a tag &lt;source&gt;, alguns dos seus atributos são 'loop', para manter ela em looping, 'autoplay', para fazer tocar assim que inciar a página, 'controls', para ter acesso aos controles do aúdio e sempre sendo especificado seu tipo no atributo 'type=""'</p>
+</body>
+
+</html>
