@@ -1,0 +1,6 @@
+algo = input('Digite algo: ')
+print('Seu tipo primitivo é: {}'.format(type(algo)))
+print('É um número? {}'.format(algo.isnumeric()))
+print('É alfabético? {}'.format(algo.isalpha()))
+print('É alphanumérico? {}'.format(algo.isalnum()))
+print('Está em letras maiusculas? {}'.format(algo.isupper()))

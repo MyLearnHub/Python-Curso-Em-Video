@@ -1,3 +1,4 @@
-numero1 = input('Primeiro número ')
-numero2 = input('Segundo número ')
-print('A soma é ', int(numero1) + int(numero2))
+numero1 = int(input('Primeiro número '))
+numero2 = int(input('Segundo número '))
+soma = numero1 + numero2
+print('A soma é ', soma)
