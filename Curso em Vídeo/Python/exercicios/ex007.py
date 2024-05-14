@@ -1,4 +1,4 @@
-nota1 = float(input('Digite a primeira nota: '))
-nota2 = float(input('Digite a segunda nota: '))
-media = nota1 + nota2 / 2
-print('A média entre a sua primeira nota ({}) e sua segunda nota ({}) é {}'.format(nota1, nota2, media))
+n1 = float(input('Primeira nota do aluno: '))
+n2 = float(input('Segunda nota do aluno: '))
+m = (n1 + n2) / 2
+print('A média entre {:.1f} e {:.1f} é igual a {:.1f}'.format(n1, n2, m))

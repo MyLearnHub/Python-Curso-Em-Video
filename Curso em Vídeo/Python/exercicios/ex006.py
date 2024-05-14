@@ -1,7 +1,5 @@
-n = int(input('Digite um valor: '))
-dobro = n * 2
-triplo = n * 3
-raiz = n ** (1 / 2)
-print('O dobro de {} é: {}'.format(n, dobro))
-print('O triplo de {} é: {}'.format(n, triplo))
-print('A raiz quadrada de {} é: {}'.format(n, raiz))
+n = int(input('Digite um número: '))
+print('O dobro de {} vale {}.'.format(n, (n * 2)))
+print('O triplo de {} vale {}.'.format(n, (n * 3)))
+print('A raiz quadrada de {} é igual a {:.2f}.'.format(n, (n ** (1/2))))
+# print('A raiz quadrada de {} é igual a {:.2f}.'.format(n, pow(n, (1/2)))) # Raiz Quadrada Alternativa
