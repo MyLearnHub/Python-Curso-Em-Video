@@ -1,9 +1,9 @@
 import pygame
 
-audio_file = "ex021.mp3"
-pygame.mixer.init()
-pygame.mixer.music.load(audio_file)
+pygame.init()
+pygame.mixer.music.load("ex021.mp3")
 pygame.mixer.music.play()
+pygame.event.wait()  # Desnecessário para execução
 
 input("Pressione Enter para parar a reprodução...")
 pygame.mixer.music.stop()
