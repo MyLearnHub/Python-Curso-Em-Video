@@ -1,2 +1,3 @@
-cidade = str(input('Digite o nome de uma cidade: '))
-print('Começa com Santo? {}'.format('santo' in cidade.lower().split()[0]))
+cid = str(input('Em que cidade você nasceu? ')).strip()
+print(cid[:5].upper() == 'SANTO')
+# print('santo' in cid.lower().split()[0])  #  Alternativa
