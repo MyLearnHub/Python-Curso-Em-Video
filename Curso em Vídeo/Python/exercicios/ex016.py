@@ -1,4 +1,9 @@
+num = float(input('Digite um valor: '))
+print('O valor digitado foi {} e a sua porção inteira é {}'.format(num, int(num)))
+
+"""
 from math import trunc
 
-num = float(input('Digite um número: '))
-print('A parte inteira do número é {}'.format(trunc(num)))
+num = float(input('Digite um valor: '))
+print('O valor digitado foi {} e a sua porção inteira é {}'.format(num, trunc(num)))
+"""  # Com Biblioteca

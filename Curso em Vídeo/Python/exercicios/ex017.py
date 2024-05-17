@@ -1,6 +1,13 @@
 from math import hypot
 
-oposto = float(input('Digite o valor do cateto oposto: '))
-adjacente = float(input('Digite o valor do cateto adjacente: '))
-hipotenusa = hypot(oposto, adjacente)
-print('O valor da hipotenusa é: {:.2f}'.format(hipotenusa))
+co = float(input('Comprimento do cateto oposto: '))
+ca = float(input('Comprimento do cateto adjacente: '))
+hi = hypot(co, ca)
+print('A hipotenusa vai medir {:.2f}'.format(hi))
+
+"""
+co = float(input('Comprimento do cateto oposto: '))
+ca = float(input('Comprimento do cateto adjacente: '))
+hi = (co ** 2 + ca ** 2) ** (1 / 2)
+print('A hipotenusa vai medir {:.2f}'.format(hi))
+"""  # Sem Biblioteca
