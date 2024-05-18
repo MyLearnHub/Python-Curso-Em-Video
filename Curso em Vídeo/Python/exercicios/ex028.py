@@ -1,8 +1,14 @@
 from random import randint
+from time import sleep
 
-num = int(input('Estou pensando em um número de 0 a 5. Adivinhe qual é: '))
-numEscolhido = randint(0, 5)
-if numEscolhido == num:
-    print('Parábens você acertou o número!')
+computador = randint(0, 5)  # Faz o computador "PENSAR"
+print('-=-' * 20)
+print('Vou pensar em um número entre 0 e 5. Tente adivinhar... ')
+print('-=-' * 20)
+jogador = int(input('Em que número eu pensei? '))  # Jogador tenta adivinhar
+print('PROCESSANDO...')
+sleep(3)
+if jogador == computador:
+    print('PARÁBENS! Você conseguiu me vencer!')
 else:
-    print('Que pena, você errou...')
+    print('GANHEI! Eu pensei no número {} e não no {}!'.format(computador, jogador))
