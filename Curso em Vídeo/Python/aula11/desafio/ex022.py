@@ -1,4 +1,4 @@
-name = str(input('Digite seu nome completo: ')).strip()
+name = str(input('\033[1;35;40mDigite seu nome completo: ')).strip()
 
 print('Seu nome em maiúsculas é {}'.format(name.upper()))
 print('Seu nome em minúsculas é {}'.format(name.lower()))

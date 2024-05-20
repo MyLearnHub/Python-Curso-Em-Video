@@ -1,4 +1,4 @@
-number1 = int(input('Primeiro valor: '))
+number1 = int(input('\033[1;40mPrimeiro valor: '))
 number2 = int(input('Segundo valor: '))
 number3 = int(input('Terceiro valor: '))
 

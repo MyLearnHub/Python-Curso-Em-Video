@@ -1,4 +1,4 @@
-straight1 = float(input('Primeiro segmento: '))
+straight1 = float(input('\033[4;32mPrimeiro segmento: '))
 straight2 = float(input('Segundo segmento: '))
 straight3 = float(input('Terceiro segmento: '))
 

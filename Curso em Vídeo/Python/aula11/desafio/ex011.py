@@ -1,4 +1,4 @@
-width = float(input('Largura da parede: '))
+width = float(input('\033[1;35mLargura da parede: '))
 height = float(input('Altura da parede: '))
 
 area = width * height

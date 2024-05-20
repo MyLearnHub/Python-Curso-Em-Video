@@ -1,6 +1,6 @@
-number = int(input('Digite um número para ver sua tabuada: '))
+number = int(input('\033[1;34mDigite um número para ver sua tabuada: '))
 
-print('{} x {:2} = {}'.format(number, 1, number * 1))
+print('\033[1;36m{} x {:2} = {}'.format(number, 1, number * 1))
 print('{} x {:2} = {}'.format(number, 2, number * 2))
 print('{} x {:2} = {}'.format(number, 3, number * 3))
 print('{} x {:2} = {}'.format(number, 4, number * 4))

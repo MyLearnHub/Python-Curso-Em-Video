@@ -1,4 +1,4 @@
-celsius = float(input('Informe a temperatura em ºC: '))
+celsius = float(input('\033[7mInforme a temperatura em ºC: '))
 
 fahrenheit = 9 * celsius / 5 + 32
 

@@ -1,6 +1,6 @@
 from datetime import date
 
-year = int(input('Que ano quer analisar? Coloque 0 para analisar o ano atual: '))
+year = int(input('\033[4;32mQue ano quer analisar? Coloque 0 para analisar o ano atual: '))
 
 if year == 0:
     year = date.today().year

@@ -1,4 +1,4 @@
-number = int(input('Me diga um número qualquer: '))
+number = int(input('\033[1;32;40mMe diga um número qualquer: '))
 
 result = number % 2
 

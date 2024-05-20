@@ -1,4 +1,4 @@
-currentPrice = float(input('Qual é o preço do produto? '))
+currentPrice = float(input('\033[1mQual é o preço do produto? '))
 
 newPrice = currentPrice * 0.95
 

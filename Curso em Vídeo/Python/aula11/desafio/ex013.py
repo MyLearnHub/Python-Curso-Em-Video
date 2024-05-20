@@ -1,4 +1,4 @@
-wage = float(input('Qual é o salário do funcionário? R$'))
+wage = float(input('\033[4mQual é o salário do funcionário? R$'))
 
 newWage = wage * 1.15
 

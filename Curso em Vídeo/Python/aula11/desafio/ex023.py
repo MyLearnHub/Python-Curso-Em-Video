@@ -1,4 +1,4 @@
-number = int(input('Informe um número: '))
+number = int(input('\033[1;36;47mInforme um número: '))
 
 unit = number // 1 % 10
 ten = number // 10 % 10

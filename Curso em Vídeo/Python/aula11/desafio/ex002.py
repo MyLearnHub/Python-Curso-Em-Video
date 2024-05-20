@@ -1,3 +1,3 @@
-name = input('Digite seu nome: ')
+name = input('\033[1;30;42mDigite seu nome: ')
 
-print('É um prazer te conhecer, {}!'.format(name))
+print('É um prazer te conhecer, {}!\033[m'.format(name))

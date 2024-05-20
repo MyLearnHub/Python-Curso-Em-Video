@@ -1,6 +1,6 @@
 from math import hypot
 
-opposite = float(input('Comprimento do cateto oposto: '))
+opposite = float(input('\033[1;34mComprimento do cateto oposto: '))
 adjacent = float(input('Comprimento do cateto adjacente: '))
 
 hypotenuse = hypot(opposite, adjacent)
