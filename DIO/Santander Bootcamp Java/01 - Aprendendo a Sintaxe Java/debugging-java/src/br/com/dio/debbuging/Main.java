@@ -15,15 +15,14 @@ public class Main {
 
     static void b() {
         System.out.println("Entrou no método b.");
-        for(int i = 0; i <= 4; i++) System.out.println(i);
+        for (int i = 0; i <= 4; i++) System.out.println(i);
         c();
         System.out.println("Finalizou o método b.");
     }
 
-    static void c(){
+    static void c() {
         System.out.println("Entrou no método c.");
         //Thread.dumpStack();
         System.out.println("Finalizou o método c.");
     }
-
 }

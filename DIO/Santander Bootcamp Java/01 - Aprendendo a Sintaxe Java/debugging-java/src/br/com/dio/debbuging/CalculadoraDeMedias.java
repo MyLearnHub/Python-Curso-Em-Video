@@ -15,7 +15,7 @@ public class CalculadoraDeMedias {
     public static double calculaMediaDaTurma(String[] alunos, Scanner scanner) {
 
         double soma = 0;
-        for(String aluno : alunos) {
+        for (String aluno : alunos) {
             System.out.printf("Nota do aluno %s: ", aluno);
             double nota = scanner.nextDouble();
             soma += nota;
@@ -23,5 +23,4 @@ public class CalculadoraDeMedias {
 
         return soma / alunos.length;
     }
-
 }
