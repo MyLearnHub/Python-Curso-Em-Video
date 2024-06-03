@@ -4,68 +4,60 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class ConjuntoPalavrasUnicas {
-  //atributos
-  private Set<String> palavrasUnicasSet;
+    private Set<String> palavrasUnicasSet;
 
-  public ConjuntoPalavrasUnicas() {
-    this.palavrasUnicasSet = new HashSet<>();
-  }
-
-  public void adicionarPalavra(String palavra) {
-    palavrasUnicasSet.add(palavra);
-  }
-
-  public void removerPalavra(String palavra) {
-    if (!palavrasUnicasSet.isEmpty()) {
-      if (palavrasUnicasSet.contains(palavra)) {
-        palavrasUnicasSet.remove(palavra);
-      } else {
-        System.out.println("Palavra não encontrada no conjunto!");
-      }
-    } else {
-      System.out.println("O conjunto está vazio!");
+    public ConjuntoPalavrasUnicas() {
+        this.palavrasUnicasSet = new HashSet<>();
     }
-  }
 
-  public boolean verificarPalavra(String palavra) {
-    return palavrasUnicasSet.contains(palavra);
-  }
-
-  public void exibirPalavrasUnicas() {
-    if(!palavrasUnicasSet.isEmpty()) {
-      System.out.println(palavrasUnicasSet);
-    } else {
-      System.out.println("O conjunto está vazio!");
+    public void adicionarPalavra(String palavra) {
+        palavrasUnicasSet.add(palavra);
     }
-  }
 
-  public static void main(String[] args) {
-    // Criando uma instância da classe ConjuntoPalavrasUnicas
-    ConjuntoPalavrasUnicas conjuntoLinguagens = new ConjuntoPalavrasUnicas();
+    public void removerPalavra(String palavra) {
+        if (!palavrasUnicasSet.isEmpty()) {
+            if (palavrasUnicasSet.contains(palavra)) {
+                palavrasUnicasSet.remove(palavra);
+            } else {
+                System.out.println("Palavra não encontrada no conjunto!");
+            }
+        } else {
+            System.out.println("O conjunto está vazio!");
+        }
+    }
 
-    // Adicionando linguagens únicas ao conjunto
-    conjuntoLinguagens.adicionarPalavra("Java");
-    conjuntoLinguagens.adicionarPalavra("Python");
-    conjuntoLinguagens.adicionarPalavra("JavaScript");
-    conjuntoLinguagens.adicionarPalavra("Python");
-    conjuntoLinguagens.adicionarPalavra("C++");
-    conjuntoLinguagens.adicionarPalavra("Ruby");
+    public boolean verificarPalavra(String palavra) {
+        return palavrasUnicasSet.contains(palavra);
+    }
 
-    // Exibindo as linguagens únicas no conjunto
-    conjuntoLinguagens.exibirPalavrasUnicas();
+    public void exibirPalavrasUnicas() {
+        if (!palavrasUnicasSet.isEmpty()) {
+            System.out.println(palavrasUnicasSet);
+        } else {
+            System.out.println("O conjunto está vazio!");
+        }
+    }
 
-    // Removendo uma linguagem do conjunto
-    conjuntoLinguagens.removerPalavra("Python");
-    conjuntoLinguagens.exibirPalavrasUnicas();
+    public static void main(String[] args) {
+        ConjuntoPalavrasUnicas conjuntoLinguagens = new ConjuntoPalavrasUnicas();
 
-    // Removendo uma linguagem inexistente
-    conjuntoLinguagens.removerPalavra("Swift");
+        conjuntoLinguagens.adicionarPalavra("Java");
+        conjuntoLinguagens.adicionarPalavra("Python");
+        conjuntoLinguagens.adicionarPalavra("JavaScript");
+        conjuntoLinguagens.adicionarPalavra("Python");
+        conjuntoLinguagens.adicionarPalavra("C++");
+        conjuntoLinguagens.adicionarPalavra("Ruby");
 
-    // Verificando se uma linguagem está no conjunto
-    System.out.println("A linguagem 'Java' está no conjunto? " + conjuntoLinguagens.verificarPalavra("Java"));
-    System.out.println("A linguagem 'Python' está no conjunto? " + conjuntoLinguagens.verificarPalavra("Python"));
+        conjuntoLinguagens.exibirPalavrasUnicas();
 
-    // Exibindo as linguagens únicas atualizadas no conjunto
-    conjuntoLinguagens.exibirPalavrasUnicas();
-  }
+        conjuntoLinguagens.removerPalavra("Python");
+        conjuntoLinguagens.exibirPalavrasUnicas();
+
+        conjuntoLinguagens.removerPalavra("Swift");
+
+        System.out.println("A linguagem 'Java' está no conjunto? " + conjuntoLinguagens.verificarPalavra("Java"));
+        System.out.println("A linguagem 'Python' está no conjunto? " + conjuntoLinguagens.verificarPalavra("Python"));
+
+        conjuntoLinguagens.exibirPalavrasUnicas();
+    }
 }
