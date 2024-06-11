@@ -1,4 +1,4 @@
-package project;
+package introducaoJava;
 
 public class LacosNumericos {
     public static void main(String[] args) {

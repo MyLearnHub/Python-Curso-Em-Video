@@ -1,6 +1,4 @@
-package project;
-
-import java.util.Arrays;
+package introducaoJava;
 
 public class Vetores {
     public static void main(String[] args) {

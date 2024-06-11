@@ -1,4 +1,4 @@
-package project;
+package introducaoJava;
 
 public class EstruturasCondicionais {
     public static void main(String[] args) {
