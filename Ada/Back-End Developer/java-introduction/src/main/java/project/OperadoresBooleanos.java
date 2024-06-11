@@ -1,4 +1,4 @@
-package bubbles.springapibackend;
+package project;
 
 public class OperadoresBooleanos {
     public static void main(String[] args) {
