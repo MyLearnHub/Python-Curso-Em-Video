@@ -1,22 +1,19 @@
 package programacaoOrientadaObjeto.Animais;
 
-public class Cachorro {
-    private String nome;
-    private String cor;
-    private int altura;
-    private double peso;
+public class Cachorro extends Animal {
+    static int numeroDeCachorros;
     private int tamanhoDoRabo;
-    private String estadoDeEspirito;
-
-    public Cachorro() {}
 
     public Cachorro(String nome, String cor, int altura, double peso, int tamanhoDoRabo, String estadoDeEspirito) {
+        super(nome, cor, peso);
         this.nome = nome;
         this.cor = cor;
         this.altura = altura;
         this.peso = peso;
         this.tamanhoDoRabo = tamanhoDoRabo;
         this.estadoDeEspirito = estadoDeEspirito;
+
+        numeroDeCachorros++;
     }
 
     public String getNome() {
@@ -59,19 +56,12 @@ public class Cachorro {
         this.tamanhoDoRabo = tamanhoDoRabo;
     }
 
-    public String getEstadoDeEspirito() {
-        return estadoDeEspirito;
+    public static int getNumeroDeCachorros() {
+        return numeroDeCachorros;
     }
 
-    public void setEstadoDeEspirito(String estadoDeEspirito) {
-        this.estadoDeEspirito = estadoDeEspirito;
-    }
-
-    public void comer() {
-    }
-
-    public void latir() {
-        System.out.println("AU AU");
+    public static void setNumeroDeCachorros(int numeroDeCachorros) {
+        Cachorro.numeroDeCachorros = numeroDeCachorros;
     }
 
     public String pegar() {
@@ -105,5 +95,17 @@ public class Cachorro {
         }
 
         return this.estadoDeEspirito;
+    }
+
+    @Override
+    public String toString() {
+        return "Cachorro{" +
+                "nome='" + nome + '\'' +
+                '}';
+    }
+
+    @Override
+    public void soar() {
+        System.out.println("AU AU");
     }
 }
