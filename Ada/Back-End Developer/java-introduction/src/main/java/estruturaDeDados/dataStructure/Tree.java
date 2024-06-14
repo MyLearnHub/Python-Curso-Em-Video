@@ -44,7 +44,7 @@ public class Tree {
         }
     }
 
-    public void preOrder(){
+    public void preOrder() {
         preOrder(root);
     }
 
@@ -55,7 +55,7 @@ public class Tree {
         preOrder(node.right);
     }
 
-    public void inOrder(){
+    public void inOrder() {
         inOrder(root);
     }
 
@@ -66,7 +66,7 @@ public class Tree {
         inOrder(node.right);
     }
 
-    public void posOrder(){
+    public void posOrder() {
         posOrder(root);
     }
 
@@ -77,7 +77,7 @@ public class Tree {
         System.out.println(node.value);
     }
 
-    public void BFS(){
+    public void BFS() {
         if (root == null) return;
         Queue<Node> queue = new LinkedList<>();
         queue.add(root);
