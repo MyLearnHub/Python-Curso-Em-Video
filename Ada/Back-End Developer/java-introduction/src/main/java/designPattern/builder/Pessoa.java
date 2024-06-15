@@ -1,7 +1,5 @@
 package designPattern.builder;
 
-import designPattern.builder.solucao.PessoaBuilder;
-
 import java.time.LocalDate;
 
 public class Pessoa {
@@ -123,5 +121,4 @@ public class Pessoa {
             return new Pessoa(nome, sobreNome, documento, email, apelido, dataNascimento);
         }
     }
-
 }

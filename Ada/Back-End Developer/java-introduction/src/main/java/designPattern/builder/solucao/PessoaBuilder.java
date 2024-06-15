@@ -1,7 +1,5 @@
 package designPattern.builder.solucao;
 
-import designPattern.builder.Pessoa;
-
 import java.time.LocalDate;
 
 public class PessoaBuilder {
@@ -42,7 +40,8 @@ public class PessoaBuilder {
         return this;
     }
 
-    /* public Pessoa criaPessoa() {
-        return new Pessoa(nome, sobreNome, documento, email, apelido, dataNascimento);
-    } */
+    // construtor de pessoa foi marcado como privado
+    /*public Pessoa criaPessoa(){
+        return new Pessoa(nome,sobreNome, documento, email, apelido, dataNascimento);
+    }*/
 }
