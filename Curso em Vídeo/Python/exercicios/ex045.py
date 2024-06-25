@@ -1,4 +1,5 @@
 from random import choice
+
 ppt = str(input('Jogue um valor (Pedra, Papel, Tesoura): '))
 
 elementos = ['Pedra', 'Papel', 'Tesoura']
