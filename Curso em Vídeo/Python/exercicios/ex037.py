@@ -8,9 +8,6 @@ option = int(input('Sua opção: '))
 if option != 1 or option != 2 or option != 3:
     print('Opção inválida. Tente novamente.')
 else:
-    base = ""
-    convertedNumber = 0
-
     if option == 1:
         base = 'BINÁRIO'
         convertedNumber = bin(number)

@@ -1,6 +1,7 @@
 from datetime import date
 
 birthYear = int(input('Ano de nascimento: '))
+
 currentYear = date.today().year
 age = currentYear - birthYear
 
