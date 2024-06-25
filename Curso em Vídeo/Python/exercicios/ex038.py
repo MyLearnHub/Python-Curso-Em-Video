@@ -1,9 +1,9 @@
-numero1 = int(input('Digite o primeiro numero: '))
-numero2 = int(input('Digite o segundo numero: '))
+numero1 = int(input('Primeiro número: '))
+numero2 = int(input('Segundo número: '))
 
 if numero1 > numero2:
-    print('O primeiro número é maior que o segundo')
+    print('O PRIMEIRO valor é maior')
 elif numero2 > numero1:
-    print('O segundo número é maior que o primeiro')
+    print('O SEGUNDO valor é maior')
 else:
-    print('Não existe valor maior, os dois são iguais')
+    print('Os dois valores são IGUAIS')
