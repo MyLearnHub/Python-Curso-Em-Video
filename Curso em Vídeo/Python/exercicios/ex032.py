@@ -1,10 +1,11 @@
 from datetime import date
 
-ano = int(input('Que ano quer analisar? Coloque 0 para analisar o ano atual: '))
-if ano == 0:
-    ano = date.today().year
+year = int(input('Que ano quer analisar? Coloque 0 para analisar o ano atual: '))
 
-if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:
-    print('O ano {} é BISSEXTO'.format(ano))
+if year == 0:
+    year = date.today().year
+
+if year % 4 == 0 and year % 100 != 0 or year % 400 == 0:
+    print('O ano {} é BISSEXTO'.format(year))
 else:
-    print('O ano {} NÂO é BISSEXTO'.format(ano))
+    print('O ano {} NÂO é BISSEXTO'.format(year))

@@ -1,10 +1,11 @@
 print('-=' * 20)
 print('Analisador de triângulo')
 print('-=' * 20)
-r1 = float(input('Primeiro segmento: '))
-r2 = float(input('Segundo segmento: '))
-r3 = float(input('Terceiro segmento: '))
-if r1 < r2 + r3 and r2 < r1 + r3 and r3 < r1 + r2:
+straight1 = float(input('Primeiro segmento: '))
+straight2 = float(input('Segundo segmento: '))
+straight3 = float(input('Terceiro segmento: '))
+
+if straight1 < straight2 + straight3 and straight2 < straight1 + straight3 and straight3 < straight1 + straight2:
     print('Os segmentos acima PODEM FORMAR um triângulo!')
 else:
     print('Os segmentos acima NÃO PODEM FORMAR triângulo!')

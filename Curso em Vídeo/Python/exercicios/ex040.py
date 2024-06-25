@@ -1,11 +1,15 @@
-nota1 = float(input('Digite a primeira nota: '))
-nota2 = float(input('Digite a segunda nota: '))
+firstGrade = float(input('Primeira nota: '))
+secondGrade = float(input('Segunda nota: '))
 
-media = ((nota1 + nota2) / 2)
+average = (firstGrade + secondGrade) / 2
+situation = ""
 
-if media < 5.0:
-    print('REPROVADO')
-elif media >= 5.0 and media <= 6.9:
-    print('RECUPERAÇÂO')
+print("Tirando {:.1f} e {:.1f}, a média do aluno é {:.1f}".format(firstGrade, secondGrade, average))
+if 7 > average >= 5:
+    situation = 'em RECUPERAÇÂO'
+elif average < 5:
+    situation = 'REPROVADO'
 else:
-    print('APROVADO')
+    situation = 'APROVADO'
+
+print("O aluno está {}.".format(situation))

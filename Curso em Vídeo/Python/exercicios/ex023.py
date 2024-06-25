@@ -1,10 +1,12 @@
-num = int(input('Informe um número: '))
-u = num // 1 % 10
-d = num // 10 % 10
-c = num // 100 % 10
-m = num // 1000 % 10
-print('Analisando o número {}'.format(num))
-print('Unidade: {}'.format(u))
-print('Deneza: {}'.format(d))
-print('Centena: {}'.format(c))
-print('Milhar: {}'.format(m))
+number = int(input('Informe um número: '))
+
+unit = number // 1 % 10
+ten = number // 10 % 10
+hundred = number // 100 % 10
+thousands = number // 1000 % 10
+
+print('Analisando o número {}'.format(number))
+print('Unidade: {}'.format(unit))
+print('Deneza: {}'.format(ten))
+print('Centena: {}'.format(hundred))
+print('Milhar: {}'.format(thousands))

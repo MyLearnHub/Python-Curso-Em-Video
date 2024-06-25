@@ -1,4 +1,4 @@
-speed = float(input('\033[1;34;40mQual é a speed atual do carro? '))
+speed = float(input('\033[1;34;40mQual é a velocidade atual do carro? '))
 
 if speed > 80:
     penalty = (speed - 80) * 7
