@@ -1,16 +1,30 @@
-preco = float(input('Preço do produto: R$'))
-print('Digite a condição do pagamento:')
-print('[1] - Á vista em Dinheiro / Cheque')
-print('[2] - Á vista no Cartão')
-print('[3] - Até 2x no Cartão')
-print('[4] - 3x ou mais no Cartão')
-condicao = int(input())
+print('{:=^40}'.format(' LOJAS GUANABARA '))
+price = float(input('Preço das compras: R$'))
+print('''FORMAS DE PAGAMENTO:
+[ 1 ] à vista dinheiro / cheque
+[ 2 ] à vista no cartão
+[ 3 ] 2x no cartão
+[ 4 ] 3x ou mais no cartão''')
+option = int(input('Qual é a opção? '))
 
-if condicao == 1:
-    preco = preco * 0.90
-elif condicao == 2:
-    preco = preco * 0.95
-elif condicao == 4:
-    preco = preco * 1.20
+if option < 1 or option > 4:
+    print('OPÇÂO INVÁLIDA de pagamento. Tente novamente!')
+else:
+    if option == 1:
+        newPrice = price * 0.90
+    elif option == 2:
+        newPrice = price * 0.95
+    elif option == 3:
+        newPrice = price
+        installmentValue = newPrice / 2
 
-print('Valor final a pagar: {}'.format(preco))
+        print('Sua compra será parcelada em 2x de {:.2f} SEM JUROS'.format(installmentValue))
+    else:
+        installments = int(input('Quantas parcelas? '))
+
+        newPrice = price * 1.20
+        installmentValue = newPrice / installments
+
+        print('Sua compra será parcelada em {}x de {:.2f} COM JUROS'.format(installments, installmentValue))
+
+    print('Sua compra de R${:.2f} vai custar R${:.2f} no final.'.format(price, newPrice))
