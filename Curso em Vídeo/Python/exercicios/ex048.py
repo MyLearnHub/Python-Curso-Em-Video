@@ -1,9 +1,12 @@
 numberSum = 0
+count = 0
+
 for number in range(1, 501, 2):
     if number % 3 == 0:
         numberSum += number
+        count += 1
 
-print('Soma: {}'.format(numberSum))
+print('A soma de todos os {} valores solicitados é {}'.format(count, numberSum))
 
 # Validando se é ímpar
 '''
