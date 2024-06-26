@@ -1,11 +1,16 @@
 number = int(input('Digite um número: '))
-aux = 0
+total = 0
 
-for divisor in range(1, number + 1):
-    if number % divisor == 0:
-        aux += 1
+for divider in range(1, number + 1):
+    if number % divider == 0:
+        print('\033[33m', end='')
+        total += 1
+    else:
+        print('\033[31m', end='')
+    print('{} '.format(divider), end='')
 
-if aux == 2 or number == 1:
-    print('{} é primo'.format(number))
+print('\n\033[mO número {} foi divisível {} vezes'.format(number, total))
+if total == 2:
+    print('E por isso ele é PRIMO!')
 else:
-    print('{} não é primo'.format(number))
+    print('E por isso ele NÃO É PRIMO!')

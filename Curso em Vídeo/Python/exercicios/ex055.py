@@ -1,13 +1,17 @@
-maior = 0.0
-menor = 100000
+heaviest = 0.0
+lighter = 0.0
 
-for c in range(0, 5):
-    weigth = float(input('Digite o peso: '))
-    if weigth > maior:
-        maior = weigth
+for person in range(1, 6):
+    weigth = float(input('Peso da {}ª pessoa: '.format(person)))
+    if person == 1:
+        heaviest = weigth
+        lighter = weigth
+    else:
+        if weigth > heaviest:
+            heaviest = weigth
 
-    if weigth < menor:
-        menor = weigth
+        if weigth < lighter:
+            lighter = weigth
 
-print('Maior peso: {}'.format(maior))
-print('Menor peso: {}'.format(menor))
+print('O maior peso lido foi de {:.1f}Kg'.format(heaviest))
+print('O menor peso lido foi de {:.1f}Kg'.format(lighter))
