@@ -1,23 +1,22 @@
 from random import randint
-from time import sleep
 
-computerNumber = 0
-playerNumber = 1
+print('''Sou seu computador...
+Acabei de pensar em um número entre 0 e 10.
+Será que você consegue adivinhar qual foi?''')
+computerNumber = randint(0, 10)
+correct = False
 attempts = 0
 
-while playerNumber != computerNumber:
-    print('-=-' * 20)
-    print('Vou pensar em um número entre 0 e 5. Tente adivinhar... ')
-    print('-=-' * 20)
-    computerNumber = randint(0, 5)
-    playerNumber = int(input('Em que número eu pensei? '))
+while not correct:
+    playerNumber = int(input('Qual é seu palpite? '))
 
     attempts += 1
 
-    print('PROCESSANDO...')
-    sleep(3)
     if playerNumber == computerNumber:
-        print('PARÁBENS! Você conseguiu me vencer!')
+        correct = True
+    elif playerNumber < computerNumber:
+        print('Mais... Tente mais uma vez.')
     else:
-        print('GANHEI! Eu pensei no número {} e não no {}!'.format(computerNumber, playerNumber))
-print('Foram necessárias {} tentativas para acertar'.format(attempts))
+        print('Menos... Tente mais uma vez.')
+
+print('Acertou com {} tentativas. Parabéns'.format(attempts))

@@ -1,9 +1,6 @@
-gender = ''
+gender = str(input('Informe seu sexo: [M/F]')).strip().upper()[0]
 
-while gender != 'M' and gender != 'F':
-    gender = str(input('Digite o seu sexo: ')).upper()
+while gender not in 'MmFf':
+    gender = str(input('Dados inválidos. Por favor, insira seu sexo: ')).strip().upper()[0]
 
-    if gender != 'M' and gender != 'F':
-        print('Sexo inválido, tente novamente')
-
-print('Muito bem, seu genêro é {}'.format(gender))
+print('Sexo {} registrado com sucesso'.format(gender))
