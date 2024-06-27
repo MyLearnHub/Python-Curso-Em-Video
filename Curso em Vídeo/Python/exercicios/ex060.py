@@ -1,10 +1,25 @@
-number = int(input('Digite um número: '))
-multiplier = number
+from math import factorial
 
-while multiplier > 1:
+number = int(input('Digite um número para calcular sua Fatorial: '))
+
+result = factorial(number)
+
+print('O fatorial de {} é {}'.format(number, result))
+
+# Solução com while
+'''
+number = int(input('Digite um número para calcular seu Fatorial: '))
+multiplier = number
+result = 1
+print('Calculando {}! = '.format(number), end='')
+
+while multiplier > 0:
+    print('{}'.format(multiplier), end='')
+    print(' x ' if multiplier > 1 else ' = ', end='')
+    result *= multiplier
     multiplier -= 1
-    number *= multiplier
-print('Fatorial: {}'.format(number))
+print('{}'.format(result))
+'''
 
 # Solução com for
 '''

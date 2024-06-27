@@ -1,26 +1,22 @@
-numberSum = 0
-higher = 0
-smallest = 0
-continuation = 'S'
-count = 0
+numberSum = count = higher = smallest = 0
+response = 'S'
 
-while continuation == 'S':
+while response in 'Ss':
     number = int(input('Digite um valor:'))
-    if count == 0:
-        higher = number
-        smallest = number
 
     numberSum += number
-    if number > higher:
-        higher = number
-
-    if number < smallest:
-        smallest = number
-
     count += 1
-    continuation = str(input('Quer continuar? [S / N]')).upper()
+    if count == 1:
+        higher = smallest = number
+    else:
+        if number > higher:
+            higher = number
+
+        if number < smallest:
+            smallest = number
+
+    response = str(input('Quer continuar? [S / N]')).upper().strip()[0]
 
 average = numberSum / count
-print('Média dos valores: {}'.format(average))
-print('Maior valor: {}'.format(higher))
-print('Menor valor: {}'.format(smallest))
+print('Você digitou {} números e a média foi {}'.format(count, average))
+print('O maior valor foi {} e o menor foi {}'.format(higher, smallest))
