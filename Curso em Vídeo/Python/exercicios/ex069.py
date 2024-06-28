@@ -5,7 +5,9 @@ while True:
     print('CADASTRE UMA PESSOA')
     print('-' * 30)
     age = int(input('Idade: '))
-    gender = str(input('Sexo [M/F]: ')).upper().strip()[0]
+    gender = ' '
+    while gender not in 'MmFf':
+        gender = str(input('Sexo [M/F]: ')).upper().strip()[0]
 
     if age > 18:
         eighteenAge += 1
@@ -17,9 +19,11 @@ while True:
         womans += 1
 
     print('-' * 30)
-    option = str(input('Quer continuar? [S/N] ')).upper().strip()[0]
+    option = ' '
+    while option not in 'SN':
+        option = str(input('Quer continuar? [S/N] ')).upper().strip()[0]
 
-    if option != 'S':
+    if option == 'N':
         break
 
 print('====== FIM DO PROGRAMA ======')

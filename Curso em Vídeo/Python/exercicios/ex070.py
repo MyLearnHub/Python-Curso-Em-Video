@@ -9,21 +9,20 @@ while True:
     name = str(input('Nome do Produto: '))
     price = float(input('Preço do Produto: '))
 
-    if priceSum == 0:
-        cheapestPrice = price
-
     priceSum += price
 
     if price > 1000:
         count += 1
 
-    if cheapestPrice > price:
+    if priceSum == 0 or cheapestPrice > price:
         cheapestPrice = price
         cheapestName = name
 
-    option = str(input('Quer continuar? [S/N] ')).upper().strip()[0]
+    option = ' '
+    while option not in 'SN':
+        option = str(input('Quer continuar? [S/N] ')).upper().strip()[0]
 
-    if option != 'S':
+    if option == 'N':
         break
 
 print('--------- FIM DO PROGRAMA ---------')

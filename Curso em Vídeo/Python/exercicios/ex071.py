@@ -1,5 +1,38 @@
 print('=' * 30)
-print('BANCO CEV')
+print(f'{'BANCO CEV':^30}')
+print('=' * 30)
+number = int(input('Que valor você quer sacar? R$ '))
+withdraw = number
+bill = 50
+totalBill = 0
+
+while True:
+    if withdraw >= bill:
+        withdraw -= bill
+        totalBill += 1
+    else:
+        if totalBill > 0:
+            print(f'Total de {totalBill} cédulas de R${bill}')
+
+        if bill == 50:
+            bill = 20
+        elif bill == 20:
+            bill = 10
+        elif bill == 10:
+            bill = 1
+
+        totalBill = 0
+
+        if withdraw == 0:
+            break
+
+print('=' * 30)
+print('Volte sempre ao BANCO CEV! Tenha um bom dia!')
+
+# Múltiplos While
+'''
+print('=' * 30)
+print(f'{'BANCO CEV':^30}')
 print('=' * 30)
 number = int(input('Que valor você quer sacar? R$ '))
 fifty = twenty = ten = one = 0
@@ -43,4 +76,4 @@ while True:
 
 print('=' * 30)
 print('Volte sempre ao BANCO CEV! Tenha um bom dia!')
-
+'''
