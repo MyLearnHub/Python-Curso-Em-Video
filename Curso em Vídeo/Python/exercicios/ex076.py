@@ -6,5 +6,5 @@ print('-' * 40)
 print(f'{'LISTAGEM DE PREÇOS':^40}')
 print('-' * 40)
 for count in range(0, len(products), 2):
-    print(f'{products[count]:.<30}R$ {products[count + 1]:>6.2f}')
+    print(f'{products[count]:.<30}R$ {products[count + 1]:>7.2f}')
 print('-' * 40)

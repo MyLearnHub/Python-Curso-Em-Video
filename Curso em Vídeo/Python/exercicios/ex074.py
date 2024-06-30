@@ -15,6 +15,10 @@ while len(numbers) < 5:
 
     numbers += randomNumber
 
-print(f'Os valores sorteados foram: {numbers}')
-print(f'O maior valor sorteado foi {higher}')
+print(f'Os valores sorteados foram: ', end='')
+for number in numbers:
+    print(number, end=' ')
+print(f'\nO maior valor sorteado foi {higher}')
+# print(f'O maior valor sorteado foi {max(numbers)}')
 print(f'O menor valor sorteado foi {smallest}')
+# print(f'O menor valor sorteado foi {min(numbers)}')
