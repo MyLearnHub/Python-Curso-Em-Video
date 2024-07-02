@@ -2,14 +2,14 @@ expression = input('Digite a expressão: ')
 
 stack = []
 
-for char in expression:
-    if char == '(':
-        stack.append(char)
-    elif char == ')':
+for caracter in expression:
+    if caracter == '(':
+        stack.append('(')
+    elif caracter == ')':
         if len(stack) > 0:
             stack.pop()
         else:
-            stack.append(char)
+            stack.append(')')
 
 if len(stack) == 0:
     print('Sua expressão está válida!')

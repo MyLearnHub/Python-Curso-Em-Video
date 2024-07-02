@@ -1,7 +1,6 @@
 numbers = list()
-continuation = 'S'
 
-while continuation == 'S':
+while True:
     number = int(input(f'Digite um valor: '))
 
     if number in numbers:
@@ -11,6 +10,8 @@ while continuation == 'S':
         print('Valor adicionado com sucesso...')
 
     continuation = str(input('Quer continuar? [S/N] ')).upper().strip()[0]
+    if continuation in 'Nn':
+        break
 
 print('-=' * 30)
 numbers.sort()

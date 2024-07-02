@@ -1,28 +1,26 @@
 numbers = list()
-positions_max = list()
-positions_min = list()
+biggest = 0
+smallest = 0
 
 for position in range(0, 5):
-    number = int(input(f'Digite um valor para a posição {position}: '))
-    numbers.append(number)
+    numbers.append(int(input(f'Digite um valor para a posição {position}: ')))
 
-max_value = max(numbers)
-min_value = min(numbers)
-
-for key, value in enumerate(numbers):
-    if value == max_value:
-        positions_max.append(key)
-
-    if value == min_value:
-        positions_min.append(key)
-
+    if position == 0:
+        biggest = smallest = numbers[position]
+    else:
+        if numbers[position] > biggest:
+            biggest = numbers[position]
+        if numbers[position] < smallest:
+            smallest = numbers[position]
 print('=-' * 30)
 print(f'Você digitou os valores {numbers}')
-print(f'O maior valor digitado foi {max_value} nas posições ', end='')
-for position in positions_max:
-    print(f'{position}... ', end='')
+print(f'O maior valor digitado foi {biggest} nas posições ', end='')
+for key, value in enumerate(numbers):
+    if value == biggest:
+        print(f'{key}... ', end='')
 print()
-print(f'O menor valor digitado foi {min_value} nas posições ', end='')
-for position in positions_min:
-    print(f'{position}... ', end='')
+print(f'O menor valor digitado foi {smallest} nas posições ', end='')
+for key, value in enumerate(numbers):
+    if value == smallest:
+        print(f'{key}... ', end='')
 print()
