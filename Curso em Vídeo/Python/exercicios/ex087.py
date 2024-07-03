@@ -1,6 +1,5 @@
 matriz = [[], [], []]
-evenSum = 0
-columnSum = 0
+evenSum = columnSum = 0
 
 for row in range(0, 3):
     for column in range(0, 3):

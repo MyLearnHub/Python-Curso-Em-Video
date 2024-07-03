@@ -1,6 +1,5 @@
 people = list()
-heavy = list()
-light = list()
+heavy = light = 0
 
 while True:
     person = list()
@@ -8,20 +7,13 @@ while True:
     person.append(float(input('Peso: ')))
 
     if len(people) == 0:
-        heavy.append(person[:])
-        light.append(person[:])
+        heavy = light = person[1]
     else:
-        if person[1] == heavy[0][1]:
-            heavy.append(person[:])
-        elif person[1] > heavy[0][1]:
-            heavy.clear()
-            heavy.append(person[:])
+        if person[1] > heavy:
+            heavy = person[1]
 
-        if person[1] == light[0][1]:
-            light.append(person[:])
-        elif person[1] < light[0][1]:
-            light.clear()
-            light.append(person[:])
+        if person[1] < light:
+            light = person[1]
 
     people.append(person[:])
     person.clear()
@@ -32,10 +24,12 @@ while True:
 
 print('-=' * 30)
 print(f'Ao todo você cadastrou {len(people)} pessoas.')
-print(f'O maior peso foi de {heavy[0][1]}Kg. Peso de ', end='')
-for person in heavy:
-    print(f'{person[0]}', end=' ')
+print(f'O maior peso foi de {heavy}Kg. Peso de ', end='')
+for weight in people:
+    if weight[1] == heavy:
+        print(f'[{weight[0]}]', end=' ')
 print()
-print(f'O menor peso foi de {light[0][1]}Kg. Peso de ', end='')
-for person in light:
-    print(f'{person[0]}', end=' ')
+print(f'O menor peso foi de {light}Kg. Peso de ', end='')
+for weight in people:
+    if weight[1] == light:
+        print(f'[{weight[0]}]', end=' ')
