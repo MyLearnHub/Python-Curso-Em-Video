@@ -3,8 +3,8 @@ from datetime import date
 worker = dict()
 worker['nome'] = str(input('Nome: '))
 birthYear = int(input('Ano de Nascimento: '))
-worker['ctps'] = int(input('Carteira de Trabalho (0 não tem): '))
 worker['idade'] = date.today().year - birthYear
+worker['ctps'] = int(input('Carteira de Trabalho (0 não tem): '))
 
 if worker['ctps'] != 0:
     worker['contratação'] = int(input('Ano de Contratação: '))
@@ -14,4 +14,4 @@ if worker['ctps'] != 0:
 print('-=' * 30)
 print(worker)
 for key, value in worker.items():
-    print(f'{key} tem o valor {value}')
+    print(f'  - {key} tem o valor {value}')

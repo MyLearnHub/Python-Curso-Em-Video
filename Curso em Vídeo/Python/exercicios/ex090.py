@@ -1,7 +1,12 @@
-name = str(input('Nome: '))
-average = float(input(f'Média de {name}: '))
-situation = 'Aprovado' if average >= 6 else 'Reprovado'
-student = {'Nome': name, 'Média': average, 'Situação': situation}
+student = dict()
+student['nome'] = str(input('Nome: '))
+student['média'] = float(input(f'Média de {student['nome']}: '))
+student['situação'] = 'Aprovado'
+if 5 <= student['média'] < 7:
+    student['situação'] = 'Recuperação'
+else:
+    student['situação'] = 'Reprovado'
 
+print('-=' * 30)
 for key, value in student.items():
-    print(f'{key} é igual a {value}')
+    print(f' - {key} é igual a {value}')
