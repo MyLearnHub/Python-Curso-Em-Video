@@ -1,7 +1,7 @@
 def escreva(text):
-    print(f'{'~~'}{'~' * (len(text))}{'~~'}')
+    print(f'{'~' * (len(text) + 4)}')
     print(f'  {text}')
-    print(f'{'~~'}{'~' * (len(text))}{'~~'}')
+    print(f'{'~' * (len(text) + 4)}')
 
 
 escreva('Olá, Mundo!')
