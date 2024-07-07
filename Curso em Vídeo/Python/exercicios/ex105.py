@@ -26,3 +26,4 @@ def notas(*notes, situation=False):
 
 response = notas(5.5, 1.5, 10, 6.5, situation=True)
 print(response)
+help(notas)

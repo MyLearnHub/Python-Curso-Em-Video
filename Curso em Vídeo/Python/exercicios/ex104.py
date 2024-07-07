@@ -5,7 +5,7 @@ def leiaInt(msg=''):
         if value.isnumeric():
             return value
         else:
-            print('ERRO! Digite um número inteiro válido.')
+            print('\033[0;31mERRO! Digite um número inteiro válido.\033[m')
 
 
 print('-' * 30)

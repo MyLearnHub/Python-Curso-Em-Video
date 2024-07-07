@@ -1,16 +1,17 @@
 def ficha(nome='<desconhecido>', gols=0):
-    if not nome:
-        nome = '<desconhecido>'
-
-    if gols.isdigit():
-        gols = int(gols)
-    else:
-        gols = 0
-
-    return f'O jogador {nome} fez {gols} gol(s) no campeonato.'
+    print(f'O jogador {nome} fez {gols} gol(s) no campeonato.')
 
 
 print('-' * 30)
 name = str(input('Nome do Jogador: '))
 goals = input('Número de Gols: ')
-print(ficha(name, goals))
+
+if goals.isnumeric():
+    goals = int(goals)
+else:
+    goals = 0
+
+if name.strip() == '':
+    ficha(gols=goals)
+else:
+    ficha(name, goals)

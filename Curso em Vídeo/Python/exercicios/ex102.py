@@ -9,16 +9,20 @@ def fatorial(number, show=False):
     :return: O valor do Fatorial de um número number.
     """
 
-    fatorialCount = 1
+    fatorial_count = 1
     for count in range(number, 0, -1):
         if show:
-            print(f'{count} x', end=' ')
+            print(count, end='')
             sleep(0.3)
-        fatorialCount *= count
-    print('=', end=' ')
+            if count > 1:
+                print(' x ', end='')
+            else:
+                print(' = ', end='')
+        fatorial_count *= count
 
-    return fatorialCount
+    return fatorial_count
 
 
 print('-' * 30)
-print(fatorial(5, True))
+print(fatorial(5))
+help(fatorial)

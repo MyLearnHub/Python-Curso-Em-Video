@@ -1,7 +1,6 @@
-from datetime import date
-
-
 def voto(birthYear):
+    from datetime import date
+
     age = date.today().year - birthYear
 
     if age < 16:
