@@ -1,0 +1,7 @@
+Gustavo; 41
+Ana; 22
+Pedro; 35
+Paulo; 95
+José; 55
+Maria;85
+Pedro Cleiton;23
