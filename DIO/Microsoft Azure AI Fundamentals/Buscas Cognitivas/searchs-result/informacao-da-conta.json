@@ -1,4 +1,0 @@
-{
-    "@odata.context": "https://search-dio.search.windows.net/indexes('coffee-index')/$metadata#docs(*)",
-    "value": []
-  }
